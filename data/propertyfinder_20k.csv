@@ -1,0 +1,1001 @@
+Title,Type,Finishing,Location,City,Area,Beds,Baths,Price,Price_per_sqm,URL
+Property 0,Townhouse,Semi Finished,Sheikh Zayed,Giza,108 sqm,3,1,"2,557,502 EGP",48913.766346400895,https://example.com/property/0
+Property 1,Apartment,Semi Finished,Maadi,Giza,304 sqm,5,1,"8,789,945 EGP",10194.73630622013,https://example.com/property/1
+Property 2,Townhouse,Semi Finished,Maadi,Giza,439 sqm,5,4,"1,327,538 EGP",26507.12993516597,https://example.com/property/2
+Property 3,Townhouse,Semi Finished,Maadi,Giza,307 sqm,4,2,"5,130,152 EGP",14018.301987238738,https://example.com/property/3
+Property 4,Apartment,Unknown,New Cairo,Suez,458 sqm,1,2,"7,068,452 EGP",30366.318622504106,https://example.com/property/4
+Property 5,Apartment,Semi Finished,Sheikh Zayed,North Coast,474 sqm,1,3,"2,986,635 EGP",10986.798181619486,https://example.com/property/5
+Property 6,Townhouse,Fully Finished,Giza,Cairo,240 sqm,5,2,"6,430,287 EGP",26275.937255625115,https://example.com/property/6
+Property 7,Villa,Fully Finished,Giza,North Coast,219 sqm,2,2,"8,379,158 EGP",18827.962991413406,https://example.com/property/7
+Property 8,Townhouse,Semi Finished,New Cairo,Suez,471 sqm,4,2,"2,308,201 EGP",31332.33449834963,https://example.com/property/8
+Property 9,Townhouse,Semi Finished,Maadi,Giza,353 sqm,4,3,"9,213,595 EGP",49839.745964027985,https://example.com/property/9
+Property 10,Townhouse,Fully Finished,Cairo,Suez,102 sqm,5,1,"5,758,806 EGP",42021.44420506991,https://example.com/property/10
+Property 11,Townhouse,Fully Finished,New Cairo,North Coast,69 sqm,5,2,"3,342,704 EGP",43825.68366497685,https://example.com/property/11
+Property 12,Apartment,Unknown,New Cairo,Cairo,304 sqm,2,3,"4,593,153 EGP",35410.59949436324,https://example.com/property/12
+Property 13,Townhouse,Fully Finished,Sheikh Zayed,Suez,468 sqm,2,3,"3,465,822 EGP",11662.393930890343,https://example.com/property/13
+Property 14,Villa,Fully Finished,Giza,Cairo,429 sqm,1,4,"7,388,556 EGP",18271.907041765764,https://example.com/property/14
+Property 15,Apartment,Semi Finished,New Cairo,Suez,354 sqm,4,3,"8,064,856 EGP",47002.5822578822,https://example.com/property/15
+Property 16,Villa,Fully Finished,New Cairo,Cairo,112 sqm,4,1,"8,412,905 EGP",24644.52471715005,https://example.com/property/16
+Property 17,Villa,Unknown,Maadi,Cairo,164 sqm,5,2,"9,864,798 EGP",14145.469059231822,https://example.com/property/17
+Property 18,Villa,Fully Finished,Maadi,Giza,443 sqm,1,3,"8,017,200 EGP",38096.21463464807,https://example.com/property/18
+Property 19,Villa,Semi Finished,Cairo,Cairo,132 sqm,4,1,"6,213,148 EGP",21978.308957370187,https://example.com/property/19
+Property 20,Apartment,Semi Finished,Sheikh Zayed,Giza,175 sqm,1,3,"3,722,592 EGP",20754.276516166865,https://example.com/property/20
+Property 21,Apartment,Fully Finished,Cairo,North Coast,108 sqm,1,3,"5,673,656 EGP",49919.098222330416,https://example.com/property/21
+Property 22,Villa,Semi Finished,Maadi,North Coast,354 sqm,5,3,"890,147 EGP",44325.557001066176,https://example.com/property/22
+Property 23,Villa,Unknown,Giza,Giza,474 sqm,1,3,"7,575,838 EGP",26317.512734713644,https://example.com/property/23
+Property 24,Apartment,Unknown,Maadi,Giza,171 sqm,2,3,"4,736,577 EGP",49210.44831265996,https://example.com/property/24
+Property 25,Apartment,Fully Finished,Sheikh Zayed,Suez,263 sqm,2,1,"690,220 EGP",36004.52893676855,https://example.com/property/25
+Property 26,Apartment,Fully Finished,Maadi,Suez,335 sqm,3,2,"1,093,815 EGP",39680.89807519041,https://example.com/property/26
+Property 27,Townhouse,Fully Finished,Sheikh Zayed,Suez,499 sqm,5,2,"4,180,931 EGP",11260.521723288464,https://example.com/property/27
+Property 28,Townhouse,Semi Finished,Sheikh Zayed,North Coast,97 sqm,3,2,"6,042,504 EGP",14864.210373922284,https://example.com/property/28
+Property 29,Townhouse,Unknown,Sheikh Zayed,Suez,274 sqm,2,2,"4,909,937 EGP",35323.40505984954,https://example.com/property/29
+Property 30,Villa,Unknown,Sheikh Zayed,Cairo,223 sqm,3,1,"6,382,441 EGP",45960.959305979355,https://example.com/property/30
+Property 31,Townhouse,Semi Finished,Sheikh Zayed,Cairo,439 sqm,5,4,"5,062,795 EGP",34949.74904350383,https://example.com/property/31
+Property 32,Villa,Unknown,Giza,Suez,264 sqm,5,4,"6,786,186 EGP",15360.99577275967,https://example.com/property/32
+Property 33,Villa,Fully Finished,Cairo,Cairo,99 sqm,1,1,"2,581,697 EGP",14630.401849852984,https://example.com/property/33
+Property 34,Townhouse,Fully Finished,New Cairo,North Coast,335 sqm,4,1,"1,572,010 EGP",43767.43583296327,https://example.com/property/34
+Property 35,Villa,Fully Finished,Cairo,Cairo,396 sqm,1,3,"6,166,122 EGP",15572.093548316572,https://example.com/property/35
+Property 36,Townhouse,Unknown,Sheikh Zayed,North Coast,51 sqm,5,3,"5,104,550 EGP",30809.278420161016,https://example.com/property/36
+Property 37,Townhouse,Fully Finished,Giza,Giza,436 sqm,2,3,"755,242 EGP",11484.532798492091,https://example.com/property/37
+Property 38,Apartment,Semi Finished,Maadi,Giza,133 sqm,2,2,"4,114,577 EGP",13226.790695647094,https://example.com/property/38
+Property 39,Townhouse,Semi Finished,Giza,Giza,298 sqm,1,3,"1,508,193 EGP",36893.93070571459,https://example.com/property/39
+Property 40,Apartment,Unknown,Sheikh Zayed,Giza,237 sqm,5,4,"5,547,889 EGP",37567.25641710067,https://example.com/property/40
+Property 41,Townhouse,Semi Finished,Giza,Cairo,373 sqm,2,2,"4,259,887 EGP",23658.776264337695,https://example.com/property/41
+Property 42,Townhouse,Semi Finished,Giza,Suez,217 sqm,5,3,"6,324,943 EGP",18624.39060972179,https://example.com/property/42
+Property 43,Apartment,Unknown,Sheikh Zayed,Cairo,441 sqm,2,2,"8,153,221 EGP",42548.41083029232,https://example.com/property/43
+Property 44,Apartment,Fully Finished,Giza,North Coast,378 sqm,5,4,"3,346,852 EGP",18684.129178795614,https://example.com/property/44
+Property 45,Townhouse,Fully Finished,New Cairo,Cairo,341 sqm,3,3,"9,639,969 EGP",31681.082786655188,https://example.com/property/45
+Property 46,Villa,Fully Finished,New Cairo,Cairo,408 sqm,5,4,"5,588,527 EGP",48728.35363451622,https://example.com/property/46
+Property 47,Apartment,Unknown,Giza,North Coast,389 sqm,5,4,"6,373,762 EGP",15914.097514495352,https://example.com/property/47
+Property 48,Villa,Semi Finished,Maadi,Giza,66 sqm,1,4,"6,966,387 EGP",47635.05069978836,https://example.com/property/48
+Property 49,Villa,Fully Finished,Sheikh Zayed,Giza,227 sqm,3,3,"6,833,949 EGP",17315.722122746745,https://example.com/property/49
+Property 50,Villa,Fully Finished,New Cairo,Giza,468 sqm,4,1,"5,354,222 EGP",32697.72832092918,https://example.com/property/50
+Property 51,Apartment,Unknown,Maadi,Suez,106 sqm,1,3,"4,573,260 EGP",25080.308478349783,https://example.com/property/51
+Property 52,Villa,Fully Finished,Giza,North Coast,381 sqm,4,4,"1,010,928 EGP",48597.144060073035,https://example.com/property/52
+Property 53,Apartment,Unknown,Maadi,North Coast,488 sqm,2,3,"709,815 EGP",20941.681160077474,https://example.com/property/53
+Property 54,Villa,Semi Finished,Cairo,Cairo,73 sqm,4,4,"3,900,631 EGP",25986.320083430146,https://example.com/property/54
+Property 55,Townhouse,Unknown,New Cairo,Suez,356 sqm,5,1,"3,669,778 EGP",49314.40471421682,https://example.com/property/55
+Property 56,Townhouse,Unknown,Giza,Giza,260 sqm,4,2,"4,183,103 EGP",31458.815647538926,https://example.com/property/56
+Property 57,Apartment,Unknown,Sheikh Zayed,Suez,310 sqm,1,1,"1,814,497 EGP",30105.20462485014,https://example.com/property/57
+Property 58,Townhouse,Unknown,Giza,North Coast,88 sqm,1,1,"7,512,598 EGP",20311.139528159652,https://example.com/property/58
+Property 59,Townhouse,Semi Finished,Sheikh Zayed,North Coast,69 sqm,4,2,"8,641,161 EGP",38054.54241241766,https://example.com/property/59
+Property 60,Villa,Semi Finished,Giza,Cairo,350 sqm,1,3,"9,417,789 EGP",10574.918071111106,https://example.com/property/60
+Property 61,Apartment,Fully Finished,Maadi,Cairo,420 sqm,1,2,"5,177,441 EGP",11980.505188091742,https://example.com/property/61
+Property 62,Villa,Semi Finished,Maadi,North Coast,401 sqm,4,3,"7,158,224 EGP",33974.34348543211,https://example.com/property/62
+Property 63,Villa,Semi Finished,Maadi,Giza,294 sqm,3,3,"8,627,735 EGP",23666.982952738166,https://example.com/property/63
+Property 64,Villa,Fully Finished,Cairo,Giza,94 sqm,3,4,"4,473,765 EGP",48132.65488803842,https://example.com/property/64
+Property 65,Villa,Semi Finished,Sheikh Zayed,Suez,359 sqm,2,4,"3,439,421 EGP",46127.627628911425,https://example.com/property/65
+Property 66,Villa,Unknown,Maadi,North Coast,158 sqm,1,2,"9,398,883 EGP",38548.250347068286,https://example.com/property/66
+Property 67,Villa,Unknown,Cairo,North Coast,459 sqm,4,1,"5,398,927 EGP",42725.82324511206,https://example.com/property/67
+Property 68,Villa,Fully Finished,Sheikh Zayed,Giza,427 sqm,1,2,"5,223,911 EGP",36693.27398670773,https://example.com/property/68
+Property 69,Apartment,Fully Finished,Giza,Giza,369 sqm,5,3,"2,194,952 EGP",15023.284108406428,https://example.com/property/69
+Property 70,Townhouse,Fully Finished,Cairo,North Coast,476 sqm,1,4,"1,527,472 EGP",40621.73478756811,https://example.com/property/70
+Property 71,Villa,Unknown,New Cairo,Cairo,64 sqm,1,2,"8,500,015 EGP",18407.678748753853,https://example.com/property/71
+Property 72,Villa,Semi Finished,Cairo,North Coast,381 sqm,3,2,"6,334,265 EGP",22937.71420400787,https://example.com/property/72
+Property 73,Villa,Unknown,Cairo,North Coast,198 sqm,4,4,"3,595,333 EGP",42769.368484096805,https://example.com/property/73
+Property 74,Villa,Fully Finished,Sheikh Zayed,Giza,457 sqm,1,4,"2,321,494 EGP",31461.02433573793,https://example.com/property/74
+Property 75,Villa,Semi Finished,Giza,Giza,170 sqm,3,4,"5,777,224 EGP",44397.62856733637,https://example.com/property/75
+Property 76,Villa,Semi Finished,New Cairo,Cairo,376 sqm,2,3,"6,047,233 EGP",18521.412793730568,https://example.com/property/76
+Property 77,Townhouse,Unknown,Maadi,Cairo,444 sqm,3,4,"2,466,439 EGP",34311.13754427549,https://example.com/property/77
+Property 78,Townhouse,Fully Finished,Maadi,Suez,68 sqm,3,1,"8,588,354 EGP",13351.638901930464,https://example.com/property/78
+Property 79,Villa,Unknown,Cairo,North Coast,228 sqm,3,2,"1,300,511 EGP",35722.439741601185,https://example.com/property/79
+Property 80,Townhouse,Semi Finished,Sheikh Zayed,Giza,393 sqm,1,4,"3,882,884 EGP",40501.36151102139,https://example.com/property/80
+Property 81,Apartment,Unknown,Sheikh Zayed,Cairo,254 sqm,1,4,"6,963,651 EGP",33397.23575914887,https://example.com/property/81
+Property 82,Villa,Unknown,Maadi,Suez,170 sqm,2,3,"3,104,143 EGP",20649.26005995241,https://example.com/property/82
+Property 83,Apartment,Fully Finished,New Cairo,Suez,148 sqm,5,3,"8,362,914 EGP",11253.70675435467,https://example.com/property/83
+Property 84,Apartment,Fully Finished,Giza,Giza,109 sqm,5,2,"7,528,744 EGP",14777.955358571431,https://example.com/property/84
+Property 85,Villa,Semi Finished,New Cairo,Giza,435 sqm,5,1,"7,995,717 EGP",34892.11916296105,https://example.com/property/85
+Property 86,Townhouse,Unknown,Giza,Suez,308 sqm,2,2,"1,631,512 EGP",47376.80867370055,https://example.com/property/86
+Property 87,Apartment,Unknown,Maadi,Cairo,84 sqm,5,4,"1,835,197 EGP",18261.376158880255,https://example.com/property/87
+Property 88,Villa,Unknown,Giza,Suez,222 sqm,5,1,"3,221,500 EGP",39401.04596420395,https://example.com/property/88
+Property 89,Apartment,Semi Finished,Sheikh Zayed,North Coast,215 sqm,3,1,"5,421,733 EGP",44658.04252996166,https://example.com/property/89
+Property 90,Apartment,Semi Finished,Cairo,North Coast,131 sqm,1,1,"7,606,152 EGP",30835.287137900443,https://example.com/property/90
+Property 91,Apartment,Fully Finished,Cairo,Giza,245 sqm,1,1,"8,447,043 EGP",36770.63183374631,https://example.com/property/91
+Property 92,Apartment,Fully Finished,Maadi,Cairo,199 sqm,3,2,"7,191,185 EGP",42600.61266704592,https://example.com/property/92
+Property 93,Townhouse,Fully Finished,Sheikh Zayed,Cairo,203 sqm,3,3,"9,321,670 EGP",20427.006309623743,https://example.com/property/93
+Property 94,Apartment,Unknown,New Cairo,North Coast,382 sqm,3,3,"7,518,063 EGP",21875.82697072172,https://example.com/property/94
+Property 95,Apartment,Unknown,Sheikh Zayed,Suez,150 sqm,1,4,"3,409,544 EGP",10025.100665138247,https://example.com/property/95
+Property 96,Apartment,Fully Finished,Cairo,Giza,338 sqm,5,3,"3,018,272 EGP",48523.7652359121,https://example.com/property/96
+Property 97,Townhouse,Unknown,Cairo,Suez,306 sqm,3,3,"7,113,828 EGP",46701.79578385379,https://example.com/property/97
+Property 98,Apartment,Fully Finished,Sheikh Zayed,Suez,305 sqm,2,3,"2,332,270 EGP",40582.73055037721,https://example.com/property/98
+Property 99,Apartment,Semi Finished,Sheikh Zayed,Suez,348 sqm,3,3,"1,380,790 EGP",13163.040839065925,https://example.com/property/99
+Property 100,Townhouse,Fully Finished,Cairo,Cairo,296 sqm,4,4,"5,556,117 EGP",27900.115587980326,https://example.com/property/100
+Property 101,Townhouse,Semi Finished,New Cairo,North Coast,445 sqm,3,2,"8,305,594 EGP",14075.670158862113,https://example.com/property/101
+Property 102,Townhouse,Unknown,Maadi,Cairo,354 sqm,1,1,"1,463,108 EGP",10636.810690511944,https://example.com/property/102
+Property 103,Apartment,Fully Finished,Maadi,North Coast,296 sqm,3,3,"8,022,967 EGP",34647.31860850389,https://example.com/property/103
+Property 104,Townhouse,Unknown,Sheikh Zayed,Giza,423 sqm,4,2,"8,209,934 EGP",48433.17668320754,https://example.com/property/104
+Property 105,Townhouse,Semi Finished,Maadi,Giza,322 sqm,2,3,"5,081,603 EGP",46114.720937286,https://example.com/property/105
+Property 106,Apartment,Semi Finished,Cairo,Suez,181 sqm,5,3,"1,044,447 EGP",37870.19259741617,https://example.com/property/106
+Property 107,Townhouse,Semi Finished,Cairo,North Coast,143 sqm,3,1,"2,158,603 EGP",13865.623366594857,https://example.com/property/107
+Property 108,Apartment,Unknown,Sheikh Zayed,North Coast,118 sqm,4,1,"7,220,549 EGP",20966.561506892005,https://example.com/property/108
+Property 109,Villa,Unknown,Sheikh Zayed,North Coast,454 sqm,4,1,"7,261,890 EGP",22802.26907541164,https://example.com/property/109
+Property 110,Townhouse,Unknown,Sheikh Zayed,Suez,369 sqm,2,3,"9,034,375 EGP",40526.00230982245,https://example.com/property/110
+Property 111,Villa,Unknown,New Cairo,Suez,471 sqm,1,3,"6,035,518 EGP",42089.96716940457,https://example.com/property/111
+Property 112,Apartment,Semi Finished,Maadi,Giza,321 sqm,3,3,"1,679,019 EGP",25404.244919596815,https://example.com/property/112
+Property 113,Townhouse,Semi Finished,Sheikh Zayed,Cairo,263 sqm,4,1,"1,653,441 EGP",26715.359864704387,https://example.com/property/113
+Property 114,Apartment,Fully Finished,Giza,North Coast,76 sqm,2,4,"7,350,757 EGP",11780.361571046853,https://example.com/property/114
+Property 115,Villa,Fully Finished,Giza,North Coast,352 sqm,5,2,"2,245,954 EGP",21565.468736750438,https://example.com/property/115
+Property 116,Apartment,Unknown,Cairo,Cairo,311 sqm,4,4,"3,619,662 EGP",28051.4070871056,https://example.com/property/116
+Property 117,Townhouse,Semi Finished,Maadi,North Coast,495 sqm,2,3,"5,128,514 EGP",14679.321855410304,https://example.com/property/117
+Property 118,Townhouse,Semi Finished,Sheikh Zayed,Suez,157 sqm,1,3,"735,266 EGP",28130.698430200853,https://example.com/property/118
+Property 119,Villa,Semi Finished,Giza,Suez,288 sqm,1,4,"2,863,780 EGP",44127.03249031201,https://example.com/property/119
+Property 120,Apartment,Fully Finished,Maadi,North Coast,342 sqm,4,3,"4,374,951 EGP",33252.84078900213,https://example.com/property/120
+Property 121,Townhouse,Fully Finished,Cairo,Suez,340 sqm,4,2,"3,156,545 EGP",13157.194201536493,https://example.com/property/121
+Property 122,Villa,Semi Finished,New Cairo,Suez,302 sqm,3,3,"1,795,518 EGP",17666.852753210973,https://example.com/property/122
+Property 123,Townhouse,Semi Finished,Maadi,North Coast,399 sqm,2,2,"7,416,116 EGP",28981.77400634225,https://example.com/property/123
+Property 124,Townhouse,Semi Finished,Maadi,Giza,142 sqm,4,4,"8,224,902 EGP",24459.485992872484,https://example.com/property/124
+Property 125,Apartment,Fully Finished,New Cairo,Cairo,376 sqm,3,4,"2,946,050 EGP",24349.08078184395,https://example.com/property/125
+Property 126,Townhouse,Semi Finished,Maadi,Suez,328 sqm,3,3,"7,856,985 EGP",31170.697925743607,https://example.com/property/126
+Property 127,Apartment,Semi Finished,Cairo,Giza,453 sqm,4,2,"4,162,758 EGP",33375.8368635783,https://example.com/property/127
+Property 128,Townhouse,Unknown,Cairo,Suez,431 sqm,1,3,"5,313,515 EGP",41874.46281104765,https://example.com/property/128
+Property 129,Villa,Unknown,New Cairo,Suez,191 sqm,2,1,"8,632,010 EGP",23638.662538499386,https://example.com/property/129
+Property 130,Townhouse,Fully Finished,Sheikh Zayed,Cairo,174 sqm,2,1,"7,624,559 EGP",42218.651321623474,https://example.com/property/130
+Property 131,Apartment,Semi Finished,Giza,Suez,491 sqm,1,1,"8,148,610 EGP",23544.4491645053,https://example.com/property/131
+Property 132,Apartment,Semi Finished,Sheikh Zayed,Cairo,287 sqm,4,1,"1,800,029 EGP",12217.319557649353,https://example.com/property/132
+Property 133,Villa,Unknown,Maadi,Cairo,457 sqm,2,3,"1,162,334 EGP",32167.506040191645,https://example.com/property/133
+Property 134,Townhouse,Fully Finished,Giza,Cairo,123 sqm,4,1,"8,987,344 EGP",33516.092995792584,https://example.com/property/134
+Property 135,Townhouse,Unknown,New Cairo,Giza,339 sqm,4,2,"4,184,425 EGP",47381.6098248744,https://example.com/property/135
+Property 136,Villa,Unknown,New Cairo,North Coast,414 sqm,3,4,"3,234,856 EGP",39042.45304249898,https://example.com/property/136
+Property 137,Townhouse,Unknown,Giza,Giza,476 sqm,1,4,"7,384,614 EGP",46710.90609977758,https://example.com/property/137
+Property 138,Townhouse,Unknown,Cairo,North Coast,201 sqm,4,1,"8,445,948 EGP",46333.888409720385,https://example.com/property/138
+Property 139,Apartment,Semi Finished,Giza,North Coast,376 sqm,5,1,"8,693,651 EGP",34182.96441032969,https://example.com/property/139
+Property 140,Townhouse,Semi Finished,Maadi,Cairo,292 sqm,1,1,"3,501,972 EGP",31110.4826134579,https://example.com/property/140
+Property 141,Townhouse,Unknown,Cairo,Suez,77 sqm,2,3,"8,596,017 EGP",32297.638686543996,https://example.com/property/141
+Property 142,Villa,Fully Finished,New Cairo,Cairo,360 sqm,3,4,"888,872 EGP",49133.232307089915,https://example.com/property/142
+Property 143,Villa,Fully Finished,Giza,Suez,360 sqm,2,1,"971,784 EGP",40926.70766987836,https://example.com/property/143
+Property 144,Apartment,Fully Finished,Sheikh Zayed,North Coast,468 sqm,2,2,"6,423,432 EGP",14250.636191695834,https://example.com/property/144
+Property 145,Townhouse,Fully Finished,Sheikh Zayed,Cairo,273 sqm,1,1,"1,099,510 EGP",41137.13627125599,https://example.com/property/145
+Property 146,Townhouse,Unknown,Maadi,Suez,153 sqm,2,4,"3,583,787 EGP",16821.521955929034,https://example.com/property/146
+Property 147,Townhouse,Semi Finished,Sheikh Zayed,Giza,70 sqm,4,1,"6,891,181 EGP",27894.021960225025,https://example.com/property/147
+Property 148,Apartment,Fully Finished,Giza,Suez,237 sqm,2,4,"3,704,035 EGP",18418.386887061373,https://example.com/property/148
+Property 149,Apartment,Unknown,Giza,Cairo,185 sqm,3,1,"2,206,197 EGP",37583.32262132919,https://example.com/property/149
+Property 150,Villa,Fully Finished,Sheikh Zayed,Giza,392 sqm,3,2,"3,172,830 EGP",45092.38944772143,https://example.com/property/150
+Property 151,Apartment,Fully Finished,Giza,Suez,209 sqm,5,1,"4,846,965 EGP",21614.47541466724,https://example.com/property/151
+Property 152,Townhouse,Unknown,Maadi,Suez,477 sqm,3,2,"5,016,165 EGP",13280.429648327505,https://example.com/property/152
+Property 153,Townhouse,Semi Finished,Cairo,Suez,483 sqm,2,2,"7,938,502 EGP",21939.72392299853,https://example.com/property/153
+Property 154,Apartment,Semi Finished,Maadi,Suez,329 sqm,3,1,"7,626,455 EGP",36894.47431728778,https://example.com/property/154
+Property 155,Townhouse,Unknown,Maadi,Suez,467 sqm,1,2,"4,839,769 EGP",23150.405102177996,https://example.com/property/155
+Property 156,Townhouse,Semi Finished,Giza,Giza,392 sqm,3,3,"8,533,839 EGP",21124.486702152135,https://example.com/property/156
+Property 157,Apartment,Unknown,Cairo,North Coast,296 sqm,4,1,"1,585,252 EGP",17377.407623370596,https://example.com/property/157
+Property 158,Apartment,Unknown,Giza,Giza,131 sqm,1,1,"2,925,856 EGP",29900.657074977342,https://example.com/property/158
+Property 159,Townhouse,Unknown,New Cairo,Giza,256 sqm,5,2,"8,365,776 EGP",21037.953126287503,https://example.com/property/159
+Property 160,Townhouse,Semi Finished,Giza,Giza,302 sqm,4,2,"4,090,943 EGP",39240.413965579326,https://example.com/property/160
+Property 161,Townhouse,Unknown,Giza,North Coast,438 sqm,2,1,"9,821,224 EGP",13064.89607968811,https://example.com/property/161
+Property 162,Villa,Fully Finished,Giza,Cairo,266 sqm,2,3,"4,929,406 EGP",36561.3213244527,https://example.com/property/162
+Property 163,Villa,Semi Finished,Cairo,North Coast,453 sqm,2,2,"8,023,388 EGP",19502.400582710798,https://example.com/property/163
+Property 164,Villa,Semi Finished,Giza,Giza,353 sqm,4,2,"4,321,916 EGP",29571.170442064125,https://example.com/property/164
+Property 165,Apartment,Semi Finished,Cairo,Suez,111 sqm,4,4,"4,537,058 EGP",21443.59688125042,https://example.com/property/165
+Property 166,Villa,Semi Finished,Sheikh Zayed,Suez,497 sqm,4,3,"4,137,389 EGP",38910.74704043183,https://example.com/property/166
+Property 167,Apartment,Fully Finished,New Cairo,Giza,287 sqm,1,3,"7,331,218 EGP",47812.28161006547,https://example.com/property/167
+Property 168,Apartment,Semi Finished,Cairo,Suez,226 sqm,1,1,"5,701,419 EGP",46683.07117879253,https://example.com/property/168
+Property 169,Villa,Semi Finished,Sheikh Zayed,Giza,346 sqm,2,3,"9,465,892 EGP",33337.048605763644,https://example.com/property/169
+Property 170,Villa,Unknown,Cairo,Suez,99 sqm,3,1,"2,883,458 EGP",28504.412130279135,https://example.com/property/170
+Property 171,Villa,Semi Finished,Cairo,North Coast,336 sqm,2,4,"1,455,345 EGP",42732.020377575274,https://example.com/property/171
+Property 172,Townhouse,Fully Finished,New Cairo,Cairo,274 sqm,5,3,"4,235,984 EGP",37333.0545051092,https://example.com/property/172
+Property 173,Villa,Fully Finished,Maadi,Cairo,233 sqm,1,2,"6,358,770 EGP",17342.564568677313,https://example.com/property/173
+Property 174,Townhouse,Fully Finished,Maadi,North Coast,478 sqm,4,4,"8,677,589 EGP",42836.76854452001,https://example.com/property/174
+Property 175,Apartment,Fully Finished,Cairo,North Coast,285 sqm,1,1,"3,788,870 EGP",27155.375575788406,https://example.com/property/175
+Property 176,Townhouse,Semi Finished,Giza,Giza,148 sqm,4,4,"6,710,974 EGP",17559.426398847005,https://example.com/property/176
+Property 177,Villa,Semi Finished,Sheikh Zayed,Giza,256 sqm,5,1,"3,826,887 EGP",21271.894015859696,https://example.com/property/177
+Property 178,Apartment,Fully Finished,Giza,Giza,463 sqm,5,4,"6,363,586 EGP",20701.081209933694,https://example.com/property/178
+Property 179,Apartment,Fully Finished,Giza,Suez,129 sqm,1,1,"8,905,675 EGP",30768.278984138404,https://example.com/property/179
+Property 180,Apartment,Semi Finished,Cairo,Giza,146 sqm,4,3,"2,697,897 EGP",19374.80362711502,https://example.com/property/180
+Property 181,Townhouse,Fully Finished,Cairo,North Coast,55 sqm,5,2,"4,340,295 EGP",14942.659496063046,https://example.com/property/181
+Property 182,Villa,Unknown,Cairo,Cairo,56 sqm,2,1,"9,936,019 EGP",14947.634024550429,https://example.com/property/182
+Property 183,Apartment,Fully Finished,Cairo,Suez,423 sqm,2,4,"8,751,291 EGP",33331.047885563865,https://example.com/property/183
+Property 184,Apartment,Fully Finished,Maadi,Giza,379 sqm,4,1,"5,864,078 EGP",39390.37155397514,https://example.com/property/184
+Property 185,Apartment,Unknown,Cairo,Suez,209 sqm,1,1,"5,407,962 EGP",22861.320353533632,https://example.com/property/185
+Property 186,Townhouse,Unknown,Maadi,Suez,364 sqm,5,1,"3,203,703 EGP",11386.028392560684,https://example.com/property/186
+Property 187,Townhouse,Semi Finished,Maadi,Giza,227 sqm,1,4,"5,413,489 EGP",15088.995477480428,https://example.com/property/187
+Property 188,Villa,Semi Finished,Cairo,Suez,478 sqm,2,2,"8,557,724 EGP",46587.78241348228,https://example.com/property/188
+Property 189,Townhouse,Unknown,New Cairo,Cairo,485 sqm,5,3,"7,009,157 EGP",29741.74638357812,https://example.com/property/189
+Property 190,Apartment,Unknown,Sheikh Zayed,North Coast,226 sqm,1,2,"3,255,418 EGP",28142.912384606992,https://example.com/property/190
+Property 191,Villa,Semi Finished,Giza,North Coast,434 sqm,3,1,"2,413,907 EGP",11521.967132403637,https://example.com/property/191
+Property 192,Apartment,Fully Finished,Maadi,Cairo,397 sqm,4,4,"3,019,481 EGP",39145.480892675965,https://example.com/property/192
+Property 193,Apartment,Unknown,Sheikh Zayed,Suez,189 sqm,4,2,"2,112,712 EGP",31122.723237283157,https://example.com/property/193
+Property 194,Townhouse,Semi Finished,New Cairo,Giza,154 sqm,3,1,"1,408,586 EGP",18083.237443460832,https://example.com/property/194
+Property 195,Villa,Fully Finished,Giza,Suez,256 sqm,2,3,"4,481,793 EGP",14402.950407242288,https://example.com/property/195
+Property 196,Townhouse,Unknown,Giza,Cairo,401 sqm,5,3,"1,576,346 EGP",25335.51454527994,https://example.com/property/196
+Property 197,Townhouse,Fully Finished,Maadi,Suez,482 sqm,4,3,"2,133,169 EGP",43486.47856780102,https://example.com/property/197
+Property 198,Villa,Semi Finished,Cairo,North Coast,393 sqm,3,1,"5,699,584 EGP",44611.78236804098,https://example.com/property/198
+Property 199,Apartment,Unknown,New Cairo,Suez,434 sqm,3,4,"2,063,693 EGP",34113.85521582546,https://example.com/property/199
+Property 200,Apartment,Fully Finished,Maadi,Cairo,321 sqm,2,2,"1,106,857 EGP",39101.45708920571,https://example.com/property/200
+Property 201,Villa,Unknown,New Cairo,North Coast,425 sqm,2,3,"3,515,194 EGP",14606.231496114815,https://example.com/property/201
+Property 202,Apartment,Fully Finished,Cairo,Suez,402 sqm,1,1,"2,593,031 EGP",33525.04261871419,https://example.com/property/202
+Property 203,Villa,Semi Finished,Cairo,Suez,219 sqm,4,1,"5,395,399 EGP",36678.62813948727,https://example.com/property/203
+Property 204,Villa,Semi Finished,Maadi,North Coast,298 sqm,1,2,"1,472,487 EGP",18028.513716551686,https://example.com/property/204
+Property 205,Townhouse,Unknown,Cairo,Giza,412 sqm,3,3,"7,641,822 EGP",45206.18931641036,https://example.com/property/205
+Property 206,Villa,Fully Finished,Sheikh Zayed,North Coast,70 sqm,5,1,"9,109,218 EGP",17799.86950084079,https://example.com/property/206
+Property 207,Townhouse,Unknown,Giza,Giza,413 sqm,5,2,"7,562,634 EGP",22539.094393858017,https://example.com/property/207
+Property 208,Apartment,Unknown,Maadi,Cairo,130 sqm,2,4,"5,561,856 EGP",34822.273880938345,https://example.com/property/208
+Property 209,Apartment,Fully Finished,New Cairo,Cairo,281 sqm,5,4,"8,676,344 EGP",35534.00260522923,https://example.com/property/209
+Property 210,Apartment,Fully Finished,Sheikh Zayed,North Coast,413 sqm,5,4,"7,101,724 EGP",37975.38963949469,https://example.com/property/210
+Property 211,Apartment,Fully Finished,Maadi,North Coast,164 sqm,5,3,"600,235 EGP",14480.468522728228,https://example.com/property/211
+Property 212,Townhouse,Semi Finished,Cairo,Cairo,160 sqm,3,2,"4,243,856 EGP",43978.577197142215,https://example.com/property/212
+Property 213,Apartment,Unknown,Cairo,Giza,231 sqm,5,2,"8,584,043 EGP",31313.885291330393,https://example.com/property/213
+Property 214,Villa,Unknown,Cairo,Cairo,452 sqm,5,1,"3,785,659 EGP",28852.871764202733,https://example.com/property/214
+Property 215,Villa,Semi Finished,Cairo,North Coast,50 sqm,5,1,"834,544 EGP",49243.904980540385,https://example.com/property/215
+Property 216,Villa,Fully Finished,New Cairo,Cairo,455 sqm,1,1,"7,588,706 EGP",39615.131877640786,https://example.com/property/216
+Property 217,Townhouse,Semi Finished,Sheikh Zayed,North Coast,119 sqm,3,2,"8,119,363 EGP",14720.241064774995,https://example.com/property/217
+Property 218,Apartment,Semi Finished,Giza,North Coast,495 sqm,2,1,"2,025,640 EGP",40261.56668904963,https://example.com/property/218
+Property 219,Apartment,Semi Finished,New Cairo,Cairo,479 sqm,1,2,"5,604,734 EGP",13809.95735891478,https://example.com/property/219
+Property 220,Apartment,Unknown,New Cairo,Giza,272 sqm,4,2,"2,323,576 EGP",11098.822500519394,https://example.com/property/220
+Property 221,Townhouse,Semi Finished,Giza,Suez,280 sqm,3,4,"7,332,726 EGP",26145.035810795885,https://example.com/property/221
+Property 222,Villa,Unknown,Giza,Cairo,266 sqm,3,1,"3,079,729 EGP",49743.12691276875,https://example.com/property/222
+Property 223,Villa,Unknown,Cairo,Suez,335 sqm,4,4,"3,504,043 EGP",16995.357447794508,https://example.com/property/223
+Property 224,Apartment,Unknown,New Cairo,Cairo,90 sqm,4,3,"8,527,223 EGP",36905.7737410716,https://example.com/property/224
+Property 225,Villa,Fully Finished,Maadi,Suez,64 sqm,4,3,"5,025,062 EGP",16935.842648244776,https://example.com/property/225
+Property 226,Villa,Unknown,Giza,Giza,75 sqm,2,3,"6,862,667 EGP",38991.47899833544,https://example.com/property/226
+Property 227,Townhouse,Unknown,Giza,Giza,249 sqm,5,2,"4,322,543 EGP",30214.146729513046,https://example.com/property/227
+Property 228,Townhouse,Fully Finished,Sheikh Zayed,Cairo,173 sqm,3,2,"3,331,065 EGP",37198.86840357505,https://example.com/property/228
+Property 229,Townhouse,Unknown,Maadi,North Coast,329 sqm,5,2,"6,442,041 EGP",18114.927036569385,https://example.com/property/229
+Property 230,Townhouse,Semi Finished,Maadi,Suez,496 sqm,5,1,"1,971,146 EGP",39825.133300820075,https://example.com/property/230
+Property 231,Apartment,Semi Finished,Giza,North Coast,223 sqm,4,4,"4,043,498 EGP",49824.76238490827,https://example.com/property/231
+Property 232,Townhouse,Unknown,Cairo,North Coast,308 sqm,2,2,"2,485,851 EGP",36626.02002503839,https://example.com/property/232
+Property 233,Villa,Fully Finished,Sheikh Zayed,North Coast,237 sqm,1,4,"7,110,052 EGP",29739.199922915108,https://example.com/property/233
+Property 234,Apartment,Semi Finished,Maadi,Giza,431 sqm,2,4,"9,469,983 EGP",46926.959544770594,https://example.com/property/234
+Property 235,Villa,Fully Finished,Giza,Cairo,456 sqm,5,4,"9,957,354 EGP",10634.073689275052,https://example.com/property/235
+Property 236,Villa,Fully Finished,Maadi,Cairo,444 sqm,2,1,"4,777,629 EGP",39196.94077143284,https://example.com/property/236
+Property 237,Villa,Semi Finished,Sheikh Zayed,Giza,488 sqm,4,1,"2,899,038 EGP",45549.86067255252,https://example.com/property/237
+Property 238,Townhouse,Fully Finished,Sheikh Zayed,Giza,62 sqm,1,3,"4,706,879 EGP",12466.983344838298,https://example.com/property/238
+Property 239,Townhouse,Semi Finished,New Cairo,Cairo,427 sqm,4,3,"8,549,059 EGP",28002.56681663033,https://example.com/property/239
+Property 240,Apartment,Fully Finished,Giza,North Coast,388 sqm,1,4,"2,457,053 EGP",18188.778157999957,https://example.com/property/240
+Property 241,Apartment,Semi Finished,Sheikh Zayed,Suez,152 sqm,5,3,"9,544,908 EGP",32660.726623513205,https://example.com/property/241
+Property 242,Townhouse,Unknown,New Cairo,Suez,480 sqm,1,4,"3,747,724 EGP",35981.71834414642,https://example.com/property/242
+Property 243,Villa,Semi Finished,New Cairo,Suez,116 sqm,1,1,"9,865,134 EGP",22104.9273171502,https://example.com/property/243
+Property 244,Apartment,Semi Finished,Maadi,North Coast,355 sqm,1,1,"8,466,784 EGP",28399.266787124034,https://example.com/property/244
+Property 245,Townhouse,Semi Finished,Maadi,Cairo,151 sqm,2,1,"8,181,420 EGP",21173.57941106238,https://example.com/property/245
+Property 246,Townhouse,Semi Finished,New Cairo,Giza,244 sqm,2,2,"3,520,094 EGP",24775.64657820455,https://example.com/property/246
+Property 247,Townhouse,Fully Finished,Maadi,Cairo,373 sqm,5,4,"583,383 EGP",16381.598267536943,https://example.com/property/247
+Property 248,Villa,Unknown,Sheikh Zayed,North Coast,303 sqm,1,1,"4,130,262 EGP",45422.377743425255,https://example.com/property/248
+Property 249,Townhouse,Semi Finished,Cairo,Giza,242 sqm,3,4,"3,367,189 EGP",10400.416422365457,https://example.com/property/249
+Property 250,Townhouse,Fully Finished,Sheikh Zayed,North Coast,196 sqm,5,3,"855,271 EGP",45296.36745775154,https://example.com/property/250
+Property 251,Townhouse,Unknown,New Cairo,Suez,427 sqm,1,3,"5,300,969 EGP",32867.15513398954,https://example.com/property/251
+Property 252,Townhouse,Unknown,New Cairo,Suez,114 sqm,1,1,"4,328,797 EGP",23266.313767080697,https://example.com/property/252
+Property 253,Apartment,Unknown,Sheikh Zayed,North Coast,243 sqm,2,4,"6,528,286 EGP",38922.28501841319,https://example.com/property/253
+Property 254,Apartment,Unknown,Maadi,Giza,456 sqm,5,1,"6,401,270 EGP",30310.086074506573,https://example.com/property/254
+Property 255,Townhouse,Semi Finished,Maadi,Giza,430 sqm,1,3,"1,647,093 EGP",29964.34632430426,https://example.com/property/255
+Property 256,Villa,Semi Finished,New Cairo,Cairo,230 sqm,1,1,"9,781,172 EGP",14405.691316758657,https://example.com/property/256
+Property 257,Apartment,Fully Finished,Giza,Suez,393 sqm,5,4,"2,275,848 EGP",25580.64103781635,https://example.com/property/257
+Property 258,Townhouse,Fully Finished,Maadi,Cairo,420 sqm,3,3,"4,730,103 EGP",19642.573834269468,https://example.com/property/258
+Property 259,Apartment,Fully Finished,Sheikh Zayed,Cairo,449 sqm,5,2,"5,137,116 EGP",10627.836223851185,https://example.com/property/259
+Property 260,Apartment,Unknown,Maadi,North Coast,295 sqm,5,3,"8,224,096 EGP",24403.985231284532,https://example.com/property/260
+Property 261,Villa,Unknown,Sheikh Zayed,North Coast,142 sqm,3,2,"1,442,681 EGP",13592.885177024189,https://example.com/property/261
+Property 262,Townhouse,Semi Finished,New Cairo,Cairo,164 sqm,5,1,"4,572,120 EGP",20273.201509007406,https://example.com/property/262
+Property 263,Townhouse,Unknown,Maadi,Suez,183 sqm,1,1,"6,470,770 EGP",13700.664847323778,https://example.com/property/263
+Property 264,Villa,Unknown,Sheikh Zayed,North Coast,317 sqm,5,4,"2,543,978 EGP",14037.665022255955,https://example.com/property/264
+Property 265,Villa,Unknown,New Cairo,Cairo,64 sqm,3,2,"6,460,945 EGP",17960.45177660753,https://example.com/property/265
+Property 266,Townhouse,Fully Finished,Giza,Cairo,336 sqm,4,1,"9,274,815 EGP",49993.96977945601,https://example.com/property/266
+Property 267,Townhouse,Fully Finished,Sheikh Zayed,Cairo,213 sqm,5,2,"9,976,422 EGP",10087.36571428995,https://example.com/property/267
+Property 268,Villa,Semi Finished,Giza,Cairo,182 sqm,2,1,"808,285 EGP",35546.905444816206,https://example.com/property/268
+Property 269,Apartment,Unknown,Giza,Cairo,445 sqm,1,3,"2,738,088 EGP",15649.747921062293,https://example.com/property/269
+Property 270,Apartment,Unknown,Cairo,Cairo,257 sqm,1,1,"3,447,917 EGP",46825.12546843103,https://example.com/property/270
+Property 271,Villa,Semi Finished,Maadi,North Coast,92 sqm,2,4,"4,291,697 EGP",13745.315733345169,https://example.com/property/271
+Property 272,Apartment,Unknown,Sheikh Zayed,Suez,422 sqm,2,3,"2,801,442 EGP",48202.52748504946,https://example.com/property/272
+Property 273,Villa,Unknown,Giza,Cairo,71 sqm,5,4,"2,433,135 EGP",34437.05549933911,https://example.com/property/273
+Property 274,Apartment,Fully Finished,Cairo,Giza,377 sqm,2,3,"9,568,261 EGP",10050.72307661961,https://example.com/property/274
+Property 275,Apartment,Semi Finished,New Cairo,North Coast,398 sqm,4,2,"9,225,955 EGP",45760.28791667224,https://example.com/property/275
+Property 276,Townhouse,Semi Finished,Sheikh Zayed,North Coast,208 sqm,3,4,"946,428 EGP",30868.47205467673,https://example.com/property/276
+Property 277,Townhouse,Semi Finished,Giza,Cairo,421 sqm,2,1,"3,718,723 EGP",20506.789413219383,https://example.com/property/277
+Property 278,Apartment,Semi Finished,Maadi,North Coast,282 sqm,2,2,"4,348,911 EGP",40691.1671006252,https://example.com/property/278
+Property 279,Apartment,Fully Finished,Cairo,Cairo,258 sqm,4,1,"2,770,638 EGP",47066.6221554748,https://example.com/property/279
+Property 280,Townhouse,Fully Finished,Giza,Suez,70 sqm,1,3,"6,474,292 EGP",29347.632925871756,https://example.com/property/280
+Property 281,Townhouse,Unknown,Maadi,Suez,180 sqm,1,3,"6,583,617 EGP",22622.138977724433,https://example.com/property/281
+Property 282,Townhouse,Unknown,Giza,North Coast,468 sqm,5,1,"8,579,790 EGP",41557.80495739707,https://example.com/property/282
+Property 283,Villa,Unknown,Sheikh Zayed,North Coast,226 sqm,4,1,"7,538,258 EGP",37271.419911538185,https://example.com/property/283
+Property 284,Apartment,Unknown,Sheikh Zayed,Giza,296 sqm,3,2,"5,654,446 EGP",45550.099350010896,https://example.com/property/284
+Property 285,Townhouse,Fully Finished,Sheikh Zayed,North Coast,289 sqm,3,1,"6,709,074 EGP",37700.560510447714,https://example.com/property/285
+Property 286,Apartment,Semi Finished,Cairo,Giza,315 sqm,4,4,"3,102,893 EGP",19741.133555981454,https://example.com/property/286
+Property 287,Villa,Fully Finished,Sheikh Zayed,Suez,77 sqm,3,4,"6,134,033 EGP",47266.36999036076,https://example.com/property/287
+Property 288,Villa,Unknown,Maadi,Suez,212 sqm,1,1,"5,147,658 EGP",14193.429888239652,https://example.com/property/288
+Property 289,Townhouse,Fully Finished,Giza,Cairo,375 sqm,3,4,"1,766,772 EGP",20717.710004273915,https://example.com/property/289
+Property 290,Villa,Semi Finished,New Cairo,Suez,140 sqm,3,1,"2,804,170 EGP",30807.784308955423,https://example.com/property/290
+Property 291,Apartment,Semi Finished,Maadi,Giza,141 sqm,4,2,"3,271,087 EGP",32629.681042836055,https://example.com/property/291
+Property 292,Townhouse,Fully Finished,Maadi,North Coast,54 sqm,4,4,"9,280,940 EGP",10612.423465076217,https://example.com/property/292
+Property 293,Apartment,Fully Finished,Sheikh Zayed,Cairo,246 sqm,3,4,"2,688,673 EGP",41222.9090328376,https://example.com/property/293
+Property 294,Apartment,Fully Finished,Cairo,Giza,447 sqm,2,1,"3,247,817 EGP",24464.29273701558,https://example.com/property/294
+Property 295,Villa,Unknown,Giza,North Coast,73 sqm,4,4,"4,008,864 EGP",26256.741640085515,https://example.com/property/295
+Property 296,Villa,Fully Finished,Cairo,Cairo,136 sqm,5,3,"6,805,556 EGP",42374.78177747783,https://example.com/property/296
+Property 297,Villa,Fully Finished,Giza,Suez,189 sqm,5,2,"1,623,264 EGP",25171.335669101783,https://example.com/property/297
+Property 298,Villa,Fully Finished,Giza,Giza,379 sqm,1,2,"9,562,479 EGP",11888.995059790193,https://example.com/property/298
+Property 299,Villa,Semi Finished,Cairo,North Coast,338 sqm,3,4,"8,722,926 EGP",17057.590818814013,https://example.com/property/299
+Property 300,Townhouse,Semi Finished,Maadi,Cairo,237 sqm,2,4,"5,983,552 EGP",48236.1268955273,https://example.com/property/300
+Property 301,Apartment,Unknown,Giza,Cairo,391 sqm,1,3,"6,903,359 EGP",12816.214496100567,https://example.com/property/301
+Property 302,Apartment,Unknown,Cairo,Suez,324 sqm,3,3,"658,274 EGP",24197.24803872065,https://example.com/property/302
+Property 303,Apartment,Semi Finished,Giza,North Coast,453 sqm,4,4,"3,719,975 EGP",30127.166682053783,https://example.com/property/303
+Property 304,Apartment,Semi Finished,New Cairo,Suez,418 sqm,5,4,"8,058,772 EGP",29731.233093542403,https://example.com/property/304
+Property 305,Villa,Semi Finished,Maadi,Suez,163 sqm,2,3,"1,236,088 EGP",10158.39772048571,https://example.com/property/305
+Property 306,Apartment,Fully Finished,Sheikh Zayed,North Coast,172 sqm,5,1,"3,181,981 EGP",30046.509258299615,https://example.com/property/306
+Property 307,Townhouse,Fully Finished,Giza,North Coast,106 sqm,4,3,"6,060,319 EGP",25350.89831909637,https://example.com/property/307
+Property 308,Townhouse,Semi Finished,New Cairo,North Coast,201 sqm,3,1,"2,935,923 EGP",48883.17341898229,https://example.com/property/308
+Property 309,Apartment,Fully Finished,Sheikh Zayed,Giza,499 sqm,4,2,"9,372,790 EGP",16366.363359753193,https://example.com/property/309
+Property 310,Apartment,Fully Finished,Sheikh Zayed,North Coast,232 sqm,4,2,"1,745,056 EGP",24166.167870379802,https://example.com/property/310
+Property 311,Townhouse,Unknown,Giza,Cairo,149 sqm,5,3,"8,075,246 EGP",26779.25940359279,https://example.com/property/311
+Property 312,Townhouse,Semi Finished,Cairo,Suez,393 sqm,2,1,"5,325,512 EGP",25627.74148403795,https://example.com/property/312
+Property 313,Villa,Semi Finished,Giza,Giza,294 sqm,4,3,"7,628,142 EGP",36633.233106074505,https://example.com/property/313
+Property 314,Townhouse,Fully Finished,New Cairo,North Coast,117 sqm,5,3,"3,451,795 EGP",18620.514301910753,https://example.com/property/314
+Property 315,Villa,Semi Finished,Sheikh Zayed,Giza,221 sqm,2,1,"5,387,651 EGP",18842.862112559673,https://example.com/property/315
+Property 316,Villa,Unknown,Giza,North Coast,236 sqm,3,3,"8,639,935 EGP",39168.43794003413,https://example.com/property/316
+Property 317,Villa,Unknown,Cairo,Giza,389 sqm,3,2,"4,935,341 EGP",30011.620747127185,https://example.com/property/317
+Property 318,Villa,Unknown,Giza,Suez,59 sqm,1,4,"3,917,338 EGP",26606.227042292416,https://example.com/property/318
+Property 319,Villa,Semi Finished,Maadi,Suez,171 sqm,5,4,"5,593,476 EGP",16768.122067090073,https://example.com/property/319
+Property 320,Apartment,Semi Finished,Cairo,Cairo,282 sqm,2,3,"7,314,946 EGP",17501.088916486664,https://example.com/property/320
+Property 321,Townhouse,Semi Finished,New Cairo,Cairo,170 sqm,4,1,"4,713,851 EGP",10422.065472636023,https://example.com/property/321
+Property 322,Villa,Semi Finished,Sheikh Zayed,North Coast,332 sqm,3,1,"9,419,331 EGP",13657.05075446837,https://example.com/property/322
+Property 323,Townhouse,Semi Finished,Giza,Suez,266 sqm,2,2,"3,301,985 EGP",32273.54778760964,https://example.com/property/323
+Property 324,Townhouse,Unknown,Cairo,Giza,212 sqm,5,1,"5,016,904 EGP",45674.925200336394,https://example.com/property/324
+Property 325,Villa,Fully Finished,Maadi,Giza,477 sqm,1,1,"7,690,812 EGP",21486.5906052223,https://example.com/property/325
+Property 326,Apartment,Unknown,Cairo,Giza,334 sqm,3,2,"7,046,650 EGP",23109.889035845124,https://example.com/property/326
+Property 327,Villa,Semi Finished,Maadi,Cairo,108 sqm,2,3,"8,704,589 EGP",14624.224424460488,https://example.com/property/327
+Property 328,Apartment,Unknown,New Cairo,Giza,302 sqm,2,4,"9,969,687 EGP",25545.237824284108,https://example.com/property/328
+Property 329,Townhouse,Semi Finished,Sheikh Zayed,Cairo,401 sqm,2,2,"4,555,154 EGP",11488.868182773167,https://example.com/property/329
+Property 330,Apartment,Semi Finished,New Cairo,Cairo,368 sqm,5,3,"1,555,933 EGP",46704.027850476006,https://example.com/property/330
+Property 331,Apartment,Unknown,Giza,North Coast,127 sqm,5,2,"788,950 EGP",36924.45392498115,https://example.com/property/331
+Property 332,Apartment,Semi Finished,Cairo,Giza,487 sqm,5,3,"7,405,330 EGP",49629.95237572875,https://example.com/property/332
+Property 333,Townhouse,Fully Finished,Maadi,Giza,251 sqm,4,2,"8,803,129 EGP",45312.926507139746,https://example.com/property/333
+Property 334,Townhouse,Semi Finished,Maadi,Suez,121 sqm,2,3,"2,596,769 EGP",28919.623747926107,https://example.com/property/334
+Property 335,Apartment,Fully Finished,Cairo,North Coast,131 sqm,3,2,"2,005,256 EGP",30787.401246015077,https://example.com/property/335
+Property 336,Apartment,Fully Finished,Cairo,Suez,94 sqm,5,3,"1,090,948 EGP",17623.041860687754,https://example.com/property/336
+Property 337,Villa,Semi Finished,Giza,North Coast,411 sqm,5,2,"8,315,677 EGP",28481.573713582224,https://example.com/property/337
+Property 338,Apartment,Unknown,New Cairo,Giza,104 sqm,2,4,"3,458,128 EGP",46121.11493971247,https://example.com/property/338
+Property 339,Villa,Fully Finished,Maadi,Cairo,106 sqm,5,4,"4,316,120 EGP",12034.136945432845,https://example.com/property/339
+Property 340,Apartment,Unknown,Giza,Cairo,432 sqm,4,1,"5,276,126 EGP",44542.272119932386,https://example.com/property/340
+Property 341,Villa,Fully Finished,New Cairo,Cairo,205 sqm,4,3,"8,474,805 EGP",23637.91206570439,https://example.com/property/341
+Property 342,Townhouse,Semi Finished,Giza,Cairo,63 sqm,5,2,"6,682,915 EGP",45980.510603852395,https://example.com/property/342
+Property 343,Apartment,Semi Finished,Maadi,Cairo,73 sqm,2,3,"6,343,113 EGP",47635.196253659386,https://example.com/property/343
+Property 344,Apartment,Fully Finished,Cairo,Suez,113 sqm,2,4,"2,168,884 EGP",36834.59548007624,https://example.com/property/344
+Property 345,Apartment,Semi Finished,Cairo,North Coast,146 sqm,2,3,"5,375,303 EGP",36576.95146370711,https://example.com/property/345
+Property 346,Apartment,Fully Finished,New Cairo,Giza,349 sqm,1,2,"7,296,119 EGP",28110.173508349602,https://example.com/property/346
+Property 347,Villa,Semi Finished,Sheikh Zayed,Suez,120 sqm,5,3,"9,745,978 EGP",43421.6089817483,https://example.com/property/347
+Property 348,Apartment,Unknown,New Cairo,North Coast,103 sqm,2,2,"2,413,359 EGP",48464.510337331325,https://example.com/property/348
+Property 349,Townhouse,Semi Finished,Sheikh Zayed,Cairo,394 sqm,4,4,"590,661 EGP",41003.27201356477,https://example.com/property/349
+Property 350,Townhouse,Unknown,Giza,North Coast,351 sqm,3,4,"1,215,363 EGP",34877.469350268366,https://example.com/property/350
+Property 351,Apartment,Semi Finished,Giza,North Coast,245 sqm,3,4,"4,070,598 EGP",34271.71583285347,https://example.com/property/351
+Property 352,Townhouse,Unknown,Maadi,Cairo,297 sqm,2,1,"8,295,174 EGP",43978.79606334649,https://example.com/property/352
+Property 353,Apartment,Semi Finished,Sheikh Zayed,Cairo,190 sqm,3,4,"567,849 EGP",31648.150630851935,https://example.com/property/353
+Property 354,Apartment,Unknown,Maadi,Cairo,267 sqm,3,3,"4,838,940 EGP",42154.395449952906,https://example.com/property/354
+Property 355,Townhouse,Fully Finished,Cairo,Giza,278 sqm,1,1,"3,627,690 EGP",30355.41020696983,https://example.com/property/355
+Property 356,Apartment,Fully Finished,Sheikh Zayed,Cairo,224 sqm,4,4,"998,576 EGP",12497.770998956965,https://example.com/property/356
+Property 357,Townhouse,Unknown,New Cairo,Giza,457 sqm,4,3,"4,777,244 EGP",25357.88035616621,https://example.com/property/357
+Property 358,Villa,Semi Finished,Cairo,Cairo,57 sqm,1,3,"2,920,112 EGP",27777.63830685995,https://example.com/property/358
+Property 359,Apartment,Unknown,Cairo,Giza,401 sqm,1,3,"3,842,905 EGP",15664.689799464688,https://example.com/property/359
+Property 360,Villa,Semi Finished,New Cairo,North Coast,105 sqm,3,2,"7,203,345 EGP",14099.853167568512,https://example.com/property/360
+Property 361,Townhouse,Fully Finished,Cairo,Suez,408 sqm,5,1,"5,454,734 EGP",31418.597986278164,https://example.com/property/361
+Property 362,Villa,Semi Finished,Sheikh Zayed,North Coast,327 sqm,3,3,"1,684,150 EGP",13405.745462243285,https://example.com/property/362
+Property 363,Villa,Fully Finished,Maadi,North Coast,429 sqm,1,2,"9,633,438 EGP",22117.806715603358,https://example.com/property/363
+Property 364,Townhouse,Semi Finished,Cairo,Cairo,93 sqm,4,4,"6,541,152 EGP",39783.87903852304,https://example.com/property/364
+Property 365,Villa,Semi Finished,Sheikh Zayed,Giza,301 sqm,3,3,"7,775,750 EGP",48577.28718271923,https://example.com/property/365
+Property 366,Villa,Semi Finished,Giza,Suez,275 sqm,5,2,"1,252,524 EGP",38714.823222077146,https://example.com/property/366
+Property 367,Townhouse,Unknown,Sheikh Zayed,Cairo,367 sqm,3,3,"947,054 EGP",49705.021938114805,https://example.com/property/367
+Property 368,Villa,Unknown,Maadi,Cairo,290 sqm,2,1,"684,756 EGP",37933.51885117611,https://example.com/property/368
+Property 369,Townhouse,Fully Finished,Sheikh Zayed,Cairo,293 sqm,3,1,"2,293,543 EGP",21751.7788261731,https://example.com/property/369
+Property 370,Villa,Fully Finished,New Cairo,North Coast,243 sqm,1,4,"4,436,879 EGP",36882.101620214475,https://example.com/property/370
+Property 371,Townhouse,Unknown,Maadi,Giza,188 sqm,4,3,"9,390,348 EGP",38086.270607876155,https://example.com/property/371
+Property 372,Townhouse,Fully Finished,Giza,Giza,267 sqm,4,2,"4,842,066 EGP",24869.079384658424,https://example.com/property/372
+Property 373,Villa,Unknown,New Cairo,Suez,103 sqm,1,4,"3,257,423 EGP",10708.55402437556,https://example.com/property/373
+Property 374,Villa,Semi Finished,Sheikh Zayed,Giza,482 sqm,2,3,"5,838,384 EGP",38127.991391019474,https://example.com/property/374
+Property 375,Villa,Fully Finished,Maadi,Giza,371 sqm,1,4,"1,563,378 EGP",10868.003811021665,https://example.com/property/375
+Property 376,Apartment,Fully Finished,Giza,Cairo,478 sqm,3,2,"6,290,305 EGP",35247.52312240285,https://example.com/property/376
+Property 377,Apartment,Unknown,New Cairo,Cairo,152 sqm,1,4,"5,900,103 EGP",16544.659549702203,https://example.com/property/377
+Property 378,Apartment,Fully Finished,Giza,North Coast,445 sqm,1,4,"8,023,933 EGP",32624.141109921733,https://example.com/property/378
+Property 379,Townhouse,Fully Finished,Sheikh Zayed,Cairo,413 sqm,2,4,"9,873,532 EGP",30156.521015224,https://example.com/property/379
+Property 380,Villa,Semi Finished,Giza,Cairo,354 sqm,3,3,"2,883,297 EGP",10540.545692247302,https://example.com/property/380
+Property 381,Townhouse,Fully Finished,Cairo,Cairo,331 sqm,5,2,"5,341,736 EGP",24514.632679804137,https://example.com/property/381
+Property 382,Apartment,Semi Finished,New Cairo,Cairo,192 sqm,5,1,"9,134,221 EGP",34043.646695852105,https://example.com/property/382
+Property 383,Villa,Unknown,Giza,North Coast,417 sqm,4,3,"7,959,303 EGP",43944.26207595119,https://example.com/property/383
+Property 384,Townhouse,Fully Finished,Sheikh Zayed,Cairo,275 sqm,1,1,"5,130,359 EGP",45545.68455346069,https://example.com/property/384
+Property 385,Villa,Semi Finished,Sheikh Zayed,Suez,81 sqm,4,1,"9,481,030 EGP",29353.99880132893,https://example.com/property/385
+Property 386,Townhouse,Unknown,Giza,Suez,190 sqm,2,3,"1,043,748 EGP",39136.89949197753,https://example.com/property/386
+Property 387,Villa,Fully Finished,Sheikh Zayed,Suez,470 sqm,5,3,"9,344,486 EGP",22658.183061338306,https://example.com/property/387
+Property 388,Apartment,Unknown,Maadi,Suez,432 sqm,1,2,"979,820 EGP",23687.456230346295,https://example.com/property/388
+Property 389,Apartment,Fully Finished,Maadi,Cairo,491 sqm,2,2,"5,699,395 EGP",17778.54076729255,https://example.com/property/389
+Property 390,Villa,Unknown,Maadi,Suez,332 sqm,2,4,"8,959,189 EGP",32477.92439972957,https://example.com/property/390
+Property 391,Townhouse,Unknown,Cairo,Cairo,161 sqm,1,1,"2,995,848 EGP",22582.56603709461,https://example.com/property/391
+Property 392,Apartment,Semi Finished,Giza,North Coast,123 sqm,2,2,"4,986,360 EGP",13374.835857540202,https://example.com/property/392
+Property 393,Apartment,Unknown,Cairo,Suez,134 sqm,1,4,"3,581,124 EGP",37400.24346652715,https://example.com/property/393
+Property 394,Apartment,Fully Finished,Sheikh Zayed,Giza,58 sqm,1,2,"9,545,367 EGP",38310.12830421593,https://example.com/property/394
+Property 395,Villa,Fully Finished,Cairo,Suez,225 sqm,3,3,"8,324,633 EGP",24399.696751162315,https://example.com/property/395
+Property 396,Villa,Semi Finished,Sheikh Zayed,Suez,136 sqm,4,2,"7,235,514 EGP",13068.935978240912,https://example.com/property/396
+Property 397,Townhouse,Fully Finished,Sheikh Zayed,Cairo,235 sqm,2,1,"6,082,456 EGP",27051.908696137038,https://example.com/property/397
+Property 398,Townhouse,Fully Finished,New Cairo,Suez,470 sqm,2,2,"8,295,621 EGP",27693.41832200862,https://example.com/property/398
+Property 399,Townhouse,Fully Finished,Maadi,Giza,243 sqm,3,1,"4,226,536 EGP",36746.83539591572,https://example.com/property/399
+Property 400,Villa,Unknown,Sheikh Zayed,Cairo,445 sqm,3,3,"4,751,742 EGP",22616.65565034734,https://example.com/property/400
+Property 401,Villa,Unknown,New Cairo,Cairo,322 sqm,3,1,"7,435,016 EGP",37303.97119125222,https://example.com/property/401
+Property 402,Townhouse,Fully Finished,Maadi,North Coast,161 sqm,5,2,"3,898,670 EGP",44859.54167029553,https://example.com/property/402
+Property 403,Townhouse,Semi Finished,Sheikh Zayed,North Coast,210 sqm,5,4,"1,107,058 EGP",19499.441694487992,https://example.com/property/403
+Property 404,Villa,Unknown,Sheikh Zayed,Suez,87 sqm,5,3,"1,206,178 EGP",49156.78224479599,https://example.com/property/404
+Property 405,Townhouse,Semi Finished,Cairo,North Coast,200 sqm,1,2,"1,595,946 EGP",25454.725485472278,https://example.com/property/405
+Property 406,Apartment,Fully Finished,Cairo,North Coast,354 sqm,2,3,"8,761,972 EGP",20690.347405882472,https://example.com/property/406
+Property 407,Villa,Fully Finished,Maadi,North Coast,82 sqm,4,3,"4,986,151 EGP",26860.44730041162,https://example.com/property/407
+Property 408,Townhouse,Unknown,Sheikh Zayed,Cairo,142 sqm,1,2,"7,272,382 EGP",13775.899036154366,https://example.com/property/408
+Property 409,Villa,Fully Finished,Giza,Cairo,221 sqm,2,2,"4,232,638 EGP",15028.236260484628,https://example.com/property/409
+Property 410,Apartment,Unknown,Cairo,Cairo,491 sqm,2,4,"2,957,754 EGP",26577.361878733256,https://example.com/property/410
+Property 411,Villa,Fully Finished,Maadi,North Coast,403 sqm,3,3,"3,798,325 EGP",40497.780877564,https://example.com/property/411
+Property 412,Villa,Fully Finished,Sheikh Zayed,Cairo,380 sqm,3,3,"8,044,732 EGP",46012.48958297964,https://example.com/property/412
+Property 413,Villa,Unknown,Sheikh Zayed,North Coast,102 sqm,1,2,"6,439,553 EGP",36592.71962865084,https://example.com/property/413
+Property 414,Villa,Unknown,Giza,Cairo,401 sqm,3,1,"9,407,577 EGP",14208.78220952679,https://example.com/property/414
+Property 415,Apartment,Unknown,Maadi,Cairo,403 sqm,2,2,"6,957,195 EGP",36880.7904872214,https://example.com/property/415
+Property 416,Villa,Fully Finished,Sheikh Zayed,Giza,320 sqm,3,3,"5,916,725 EGP",35417.11682811887,https://example.com/property/416
+Property 417,Villa,Fully Finished,Cairo,Suez,495 sqm,5,2,"6,296,862 EGP",42230.556731733246,https://example.com/property/417
+Property 418,Townhouse,Semi Finished,Giza,North Coast,196 sqm,3,4,"9,452,528 EGP",43009.946666087235,https://example.com/property/418
+Property 419,Villa,Unknown,Maadi,Giza,473 sqm,2,1,"7,987,908 EGP",44728.12303115916,https://example.com/property/419
+Property 420,Townhouse,Fully Finished,Giza,Cairo,461 sqm,1,2,"728,391 EGP",26565.260583163934,https://example.com/property/420
+Property 421,Apartment,Fully Finished,Cairo,North Coast,55 sqm,4,4,"5,574,327 EGP",37914.57581408577,https://example.com/property/421
+Property 422,Apartment,Unknown,Maadi,Cairo,252 sqm,3,3,"7,039,214 EGP",20730.014356892432,https://example.com/property/422
+Property 423,Apartment,Semi Finished,Giza,Suez,489 sqm,2,2,"7,612,635 EGP",49973.45119934017,https://example.com/property/423
+Property 424,Apartment,Unknown,New Cairo,Giza,96 sqm,4,3,"2,524,850 EGP",17013.3696550744,https://example.com/property/424
+Property 425,Townhouse,Semi Finished,Cairo,Suez,296 sqm,4,4,"8,738,184 EGP",10404.577266433433,https://example.com/property/425
+Property 426,Villa,Fully Finished,Cairo,Giza,490 sqm,5,3,"9,580,509 EGP",15952.34858072704,https://example.com/property/426
+Property 427,Apartment,Semi Finished,Cairo,Cairo,299 sqm,4,4,"2,748,795 EGP",41034.89158176507,https://example.com/property/427
+Property 428,Villa,Fully Finished,New Cairo,Suez,135 sqm,2,4,"8,884,846 EGP",27871.34706032846,https://example.com/property/428
+Property 429,Townhouse,Unknown,New Cairo,Suez,311 sqm,2,4,"1,421,298 EGP",27900.009912417132,https://example.com/property/429
+Property 430,Townhouse,Unknown,Sheikh Zayed,Cairo,141 sqm,3,2,"1,029,214 EGP",48200.91678446674,https://example.com/property/430
+Property 431,Townhouse,Unknown,Giza,Suez,283 sqm,3,3,"1,727,626 EGP",46785.39632112297,https://example.com/property/431
+Property 432,Apartment,Semi Finished,Sheikh Zayed,North Coast,83 sqm,3,3,"1,048,540 EGP",22447.789512160365,https://example.com/property/432
+Property 433,Villa,Fully Finished,Giza,Giza,322 sqm,4,1,"8,527,616 EGP",18362.325151234647,https://example.com/property/433
+Property 434,Villa,Unknown,New Cairo,Giza,282 sqm,4,1,"1,060,976 EGP",43939.288397349585,https://example.com/property/434
+Property 435,Villa,Unknown,New Cairo,Giza,383 sqm,5,1,"3,080,809 EGP",46240.76284177453,https://example.com/property/435
+Property 436,Townhouse,Fully Finished,Sheikh Zayed,North Coast,333 sqm,3,1,"1,485,685 EGP",31663.87691193948,https://example.com/property/436
+Property 437,Apartment,Unknown,Maadi,Giza,297 sqm,1,3,"3,306,509 EGP",35176.94844468402,https://example.com/property/437
+Property 438,Townhouse,Fully Finished,Sheikh Zayed,Cairo,360 sqm,5,4,"1,360,314 EGP",20276.571387691736,https://example.com/property/438
+Property 439,Townhouse,Fully Finished,Giza,Suez,114 sqm,1,4,"6,846,030 EGP",42032.107519140984,https://example.com/property/439
+Property 440,Villa,Fully Finished,Sheikh Zayed,North Coast,317 sqm,4,2,"1,766,604 EGP",35284.89713796093,https://example.com/property/440
+Property 441,Townhouse,Fully Finished,Cairo,Giza,127 sqm,5,4,"8,592,536 EGP",30140.540451919864,https://example.com/property/441
+Property 442,Villa,Fully Finished,Giza,Cairo,466 sqm,5,3,"8,263,314 EGP",12404.342243135834,https://example.com/property/442
+Property 443,Apartment,Semi Finished,Giza,Suez,80 sqm,2,3,"629,786 EGP",46637.39850044615,https://example.com/property/443
+Property 444,Villa,Unknown,Maadi,Suez,243 sqm,4,3,"9,009,400 EGP",34618.05681537624,https://example.com/property/444
+Property 445,Apartment,Semi Finished,New Cairo,North Coast,363 sqm,4,2,"774,971 EGP",17707.64378771872,https://example.com/property/445
+Property 446,Villa,Unknown,Giza,North Coast,256 sqm,5,1,"2,776,634 EGP",34255.444679322114,https://example.com/property/446
+Property 447,Townhouse,Semi Finished,New Cairo,North Coast,91 sqm,4,4,"807,696 EGP",37098.534169598934,https://example.com/property/447
+Property 448,Townhouse,Fully Finished,Sheikh Zayed,Cairo,299 sqm,5,3,"3,690,513 EGP",31030.81346732902,https://example.com/property/448
+Property 449,Apartment,Unknown,Cairo,Cairo,338 sqm,2,3,"5,381,731 EGP",38724.069518240896,https://example.com/property/449
+Property 450,Apartment,Unknown,Maadi,North Coast,366 sqm,5,1,"8,068,126 EGP",33258.15791714497,https://example.com/property/450
+Property 451,Apartment,Semi Finished,New Cairo,Giza,217 sqm,4,3,"3,710,824 EGP",47910.78328128593,https://example.com/property/451
+Property 452,Villa,Semi Finished,Giza,Suez,303 sqm,4,4,"7,202,155 EGP",12147.883143972274,https://example.com/property/452
+Property 453,Villa,Unknown,New Cairo,Suez,252 sqm,5,2,"2,281,292 EGP",14249.82833878242,https://example.com/property/453
+Property 454,Apartment,Semi Finished,Giza,Cairo,352 sqm,5,3,"7,630,685 EGP",16946.865478173593,https://example.com/property/454
+Property 455,Townhouse,Semi Finished,New Cairo,Suez,312 sqm,5,4,"2,741,967 EGP",37606.84282417329,https://example.com/property/455
+Property 456,Villa,Semi Finished,Giza,Giza,286 sqm,3,3,"1,863,675 EGP",35823.83490999235,https://example.com/property/456
+Property 457,Villa,Fully Finished,Sheikh Zayed,Suez,162 sqm,4,1,"2,261,384 EGP",45682.354408387764,https://example.com/property/457
+Property 458,Villa,Fully Finished,Giza,Cairo,50 sqm,4,3,"2,229,599 EGP",39315.09811535594,https://example.com/property/458
+Property 459,Apartment,Semi Finished,Giza,Cairo,128 sqm,3,3,"5,372,197 EGP",30334.21950258369,https://example.com/property/459
+Property 460,Apartment,Semi Finished,Cairo,Giza,102 sqm,5,2,"8,525,577 EGP",49673.27169854521,https://example.com/property/460
+Property 461,Apartment,Fully Finished,Giza,Giza,252 sqm,2,1,"1,256,248 EGP",20644.318246771967,https://example.com/property/461
+Property 462,Apartment,Fully Finished,Cairo,Suez,325 sqm,5,1,"7,216,085 EGP",43327.666391418155,https://example.com/property/462
+Property 463,Apartment,Unknown,Maadi,Suez,145 sqm,5,2,"6,716,291 EGP",27071.614887756776,https://example.com/property/463
+Property 464,Townhouse,Unknown,Cairo,Cairo,472 sqm,3,3,"8,788,939 EGP",35949.40555502937,https://example.com/property/464
+Property 465,Townhouse,Fully Finished,Sheikh Zayed,Giza,53 sqm,4,4,"2,819,401 EGP",39090.738818097365,https://example.com/property/465
+Property 466,Apartment,Semi Finished,Cairo,Giza,397 sqm,5,1,"4,776,043 EGP",35350.16348761345,https://example.com/property/466
+Property 467,Villa,Semi Finished,Maadi,Giza,331 sqm,4,1,"9,295,360 EGP",15620.29212434373,https://example.com/property/467
+Property 468,Apartment,Semi Finished,Sheikh Zayed,Suez,218 sqm,1,3,"6,769,937 EGP",27718.04042991731,https://example.com/property/468
+Property 469,Townhouse,Semi Finished,New Cairo,Giza,72 sqm,4,3,"4,193,299 EGP",32457.535117324973,https://example.com/property/469
+Property 470,Townhouse,Unknown,New Cairo,Cairo,332 sqm,2,1,"1,748,417 EGP",43961.75036714387,https://example.com/property/470
+Property 471,Villa,Fully Finished,Cairo,Cairo,223 sqm,2,3,"2,993,607 EGP",27745.829951942895,https://example.com/property/471
+Property 472,Townhouse,Semi Finished,Cairo,Suez,471 sqm,5,4,"6,021,547 EGP",46749.89219217006,https://example.com/property/472
+Property 473,Apartment,Unknown,Maadi,North Coast,293 sqm,4,1,"7,322,595 EGP",27614.968921008425,https://example.com/property/473
+Property 474,Villa,Semi Finished,Maadi,Suez,472 sqm,5,4,"1,682,007 EGP",31951.194370520465,https://example.com/property/474
+Property 475,Apartment,Fully Finished,Giza,North Coast,149 sqm,3,4,"6,196,173 EGP",41851.42731771204,https://example.com/property/475
+Property 476,Apartment,Unknown,Maadi,Giza,376 sqm,2,3,"5,728,337 EGP",33322.707376885744,https://example.com/property/476
+Property 477,Villa,Fully Finished,Giza,Suez,327 sqm,5,4,"5,382,576 EGP",48408.72289531299,https://example.com/property/477
+Property 478,Apartment,Fully Finished,Sheikh Zayed,Cairo,382 sqm,3,3,"7,056,169 EGP",36413.4332205651,https://example.com/property/478
+Property 479,Townhouse,Unknown,Cairo,Giza,146 sqm,5,2,"8,455,771 EGP",30908.37816270404,https://example.com/property/479
+Property 480,Apartment,Unknown,Sheikh Zayed,Cairo,349 sqm,4,3,"3,568,401 EGP",10943.678711231834,https://example.com/property/480
+Property 481,Villa,Unknown,Maadi,Giza,274 sqm,4,4,"8,945,615 EGP",26549.31590321319,https://example.com/property/481
+Property 482,Villa,Unknown,Sheikh Zayed,Suez,384 sqm,4,2,"2,026,019 EGP",21969.936770406417,https://example.com/property/482
+Property 483,Villa,Unknown,Sheikh Zayed,North Coast,197 sqm,4,3,"2,143,726 EGP",39924.226715499564,https://example.com/property/483
+Property 484,Apartment,Unknown,Sheikh Zayed,Giza,450 sqm,1,4,"3,034,334 EGP",18331.10700614183,https://example.com/property/484
+Property 485,Villa,Unknown,Maadi,North Coast,87 sqm,3,1,"1,635,543 EGP",18208.803491762872,https://example.com/property/485
+Property 486,Villa,Semi Finished,Sheikh Zayed,Giza,413 sqm,3,1,"2,688,032 EGP",17580.761729495072,https://example.com/property/486
+Property 487,Apartment,Fully Finished,Giza,Cairo,437 sqm,4,3,"1,510,911 EGP",15024.624526249438,https://example.com/property/487
+Property 488,Townhouse,Unknown,Maadi,Cairo,417 sqm,1,3,"8,306,647 EGP",22440.280146835496,https://example.com/property/488
+Property 489,Apartment,Semi Finished,Sheikh Zayed,Giza,280 sqm,4,1,"1,820,205 EGP",45436.884577737,https://example.com/property/489
+Property 490,Villa,Semi Finished,Maadi,North Coast,247 sqm,1,4,"7,599,326 EGP",40997.1388922382,https://example.com/property/490
+Property 491,Villa,Semi Finished,New Cairo,Suez,498 sqm,4,4,"955,181 EGP",39410.04865227174,https://example.com/property/491
+Property 492,Apartment,Fully Finished,Giza,Suez,153 sqm,2,4,"9,510,943 EGP",41893.47222599851,https://example.com/property/492
+Property 493,Townhouse,Unknown,Sheikh Zayed,Cairo,296 sqm,2,3,"7,256,020 EGP",20776.715573182868,https://example.com/property/493
+Property 494,Villa,Semi Finished,New Cairo,Suez,351 sqm,5,2,"564,567 EGP",45497.66763009951,https://example.com/property/494
+Property 495,Villa,Fully Finished,New Cairo,Cairo,365 sqm,4,2,"7,756,636 EGP",15492.135005664175,https://example.com/property/495
+Property 496,Villa,Fully Finished,Maadi,Suez,141 sqm,3,2,"5,383,778 EGP",23453.82906862328,https://example.com/property/496
+Property 497,Apartment,Fully Finished,New Cairo,Giza,344 sqm,5,2,"7,903,969 EGP",33469.92475869371,https://example.com/property/497
+Property 498,Villa,Semi Finished,Giza,Cairo,418 sqm,2,2,"5,463,719 EGP",14116.203533680025,https://example.com/property/498
+Property 499,Townhouse,Unknown,Giza,Cairo,72 sqm,4,3,"6,589,736 EGP",39205.207511057,https://example.com/property/499
+Property 500,Villa,Semi Finished,Cairo,Giza,460 sqm,5,3,"7,970,150 EGP",25489.841928138998,https://example.com/property/500
+Property 501,Villa,Semi Finished,Giza,Cairo,63 sqm,4,2,"4,348,526 EGP",41376.226624336006,https://example.com/property/501
+Property 502,Townhouse,Unknown,New Cairo,Suez,210 sqm,2,3,"525,727 EGP",29715.85142338411,https://example.com/property/502
+Property 503,Villa,Unknown,Giza,Suez,57 sqm,5,3,"8,574,491 EGP",17234.980977013453,https://example.com/property/503
+Property 504,Apartment,Unknown,Maadi,Cairo,84 sqm,2,2,"4,118,458 EGP",39390.47245421377,https://example.com/property/504
+Property 505,Apartment,Fully Finished,Cairo,Suez,460 sqm,1,4,"5,212,405 EGP",20085.758233557743,https://example.com/property/505
+Property 506,Apartment,Unknown,New Cairo,North Coast,209 sqm,2,3,"573,783 EGP",29632.412050721712,https://example.com/property/506
+Property 507,Townhouse,Semi Finished,Cairo,Cairo,241 sqm,4,4,"5,174,874 EGP",13021.330766276304,https://example.com/property/507
+Property 508,Villa,Unknown,New Cairo,Giza,146 sqm,3,3,"9,871,630 EGP",34714.66617648146,https://example.com/property/508
+Property 509,Apartment,Semi Finished,Maadi,North Coast,318 sqm,2,3,"3,143,542 EGP",36634.31064865109,https://example.com/property/509
+Property 510,Townhouse,Fully Finished,Cairo,Cairo,317 sqm,3,2,"4,256,473 EGP",25146.96839891134,https://example.com/property/510
+Property 511,Villa,Semi Finished,Sheikh Zayed,Giza,217 sqm,1,3,"7,028,304 EGP",48176.911212842955,https://example.com/property/511
+Property 512,Townhouse,Semi Finished,New Cairo,Suez,199 sqm,5,1,"8,240,539 EGP",44966.75685928274,https://example.com/property/512
+Property 513,Apartment,Unknown,Sheikh Zayed,Giza,448 sqm,5,1,"4,465,220 EGP",38317.63662959979,https://example.com/property/513
+Property 514,Apartment,Unknown,Cairo,North Coast,222 sqm,3,2,"3,441,854 EGP",38546.082979749706,https://example.com/property/514
+Property 515,Apartment,Semi Finished,Sheikh Zayed,Suez,272 sqm,5,4,"9,409,345 EGP",20096.068597686048,https://example.com/property/515
+Property 516,Townhouse,Unknown,Sheikh Zayed,Cairo,177 sqm,2,4,"6,932,877 EGP",36272.609243537954,https://example.com/property/516
+Property 517,Townhouse,Fully Finished,Cairo,Suez,404 sqm,3,4,"1,630,702 EGP",17928.250609420786,https://example.com/property/517
+Property 518,Apartment,Fully Finished,Maadi,Cairo,228 sqm,4,1,"1,154,814 EGP",15760.128956792885,https://example.com/property/518
+Property 519,Townhouse,Unknown,Sheikh Zayed,Cairo,281 sqm,2,4,"5,093,723 EGP",49978.71576810321,https://example.com/property/519
+Property 520,Apartment,Fully Finished,Sheikh Zayed,Giza,164 sqm,2,4,"2,590,855 EGP",34895.03725892697,https://example.com/property/520
+Property 521,Apartment,Unknown,Maadi,Giza,494 sqm,2,2,"2,912,855 EGP",27239.51490628762,https://example.com/property/521
+Property 522,Villa,Semi Finished,Sheikh Zayed,Giza,181 sqm,4,4,"8,838,075 EGP",21526.580915358056,https://example.com/property/522
+Property 523,Townhouse,Semi Finished,Sheikh Zayed,North Coast,396 sqm,1,1,"1,350,877 EGP",34156.8177464891,https://example.com/property/523
+Property 524,Apartment,Fully Finished,Sheikh Zayed,North Coast,242 sqm,5,1,"7,295,959 EGP",11983.740328803446,https://example.com/property/524
+Property 525,Apartment,Unknown,Giza,Giza,142 sqm,3,1,"3,075,851 EGP",13787.239620191802,https://example.com/property/525
+Property 526,Townhouse,Unknown,Maadi,North Coast,409 sqm,1,2,"7,723,118 EGP",11314.267909615854,https://example.com/property/526
+Property 527,Villa,Fully Finished,Sheikh Zayed,Suez,200 sqm,3,2,"7,362,908 EGP",29966.79333050647,https://example.com/property/527
+Property 528,Villa,Semi Finished,Maadi,Suez,439 sqm,5,3,"570,223 EGP",34024.265167487305,https://example.com/property/528
+Property 529,Apartment,Fully Finished,New Cairo,North Coast,461 sqm,4,4,"5,336,786 EGP",12499.190454312833,https://example.com/property/529
+Property 530,Townhouse,Semi Finished,New Cairo,North Coast,436 sqm,2,2,"1,823,535 EGP",38848.97869995666,https://example.com/property/530
+Property 531,Villa,Unknown,Sheikh Zayed,Suez,65 sqm,2,1,"8,729,156 EGP",19215.802860582575,https://example.com/property/531
+Property 532,Townhouse,Semi Finished,Maadi,Cairo,404 sqm,4,1,"8,780,065 EGP",37408.05815079465,https://example.com/property/532
+Property 533,Townhouse,Fully Finished,Maadi,Suez,235 sqm,1,2,"4,474,285 EGP",49275.88560140983,https://example.com/property/533
+Property 534,Apartment,Unknown,Maadi,Suez,443 sqm,1,2,"4,721,758 EGP",37644.234802154046,https://example.com/property/534
+Property 535,Villa,Fully Finished,Giza,North Coast,337 sqm,3,2,"3,381,187 EGP",45327.72211694434,https://example.com/property/535
+Property 536,Apartment,Fully Finished,New Cairo,Suez,425 sqm,4,3,"7,307,759 EGP",47927.9402697227,https://example.com/property/536
+Property 537,Villa,Semi Finished,Maadi,North Coast,274 sqm,1,1,"3,907,282 EGP",29470.04193409262,https://example.com/property/537
+Property 538,Villa,Fully Finished,Maadi,North Coast,290 sqm,4,3,"3,044,028 EGP",38092.999176788275,https://example.com/property/538
+Property 539,Villa,Semi Finished,Giza,Giza,114 sqm,5,3,"4,606,195 EGP",44078.77014223367,https://example.com/property/539
+Property 540,Villa,Unknown,Giza,Suez,402 sqm,2,4,"1,369,131 EGP",24264.356514975443,https://example.com/property/540
+Property 541,Villa,Semi Finished,Maadi,Cairo,238 sqm,2,1,"7,592,730 EGP",20455.892662415798,https://example.com/property/541
+Property 542,Townhouse,Unknown,Cairo,Giza,275 sqm,2,1,"619,665 EGP",47863.94291113355,https://example.com/property/542
+Property 543,Apartment,Semi Finished,Maadi,North Coast,403 sqm,4,2,"6,622,608 EGP",39052.14001475272,https://example.com/property/543
+Property 544,Townhouse,Fully Finished,Maadi,North Coast,319 sqm,4,2,"2,237,213 EGP",18787.285335033055,https://example.com/property/544
+Property 545,Villa,Semi Finished,Giza,Cairo,140 sqm,3,4,"2,707,838 EGP",27963.335707044538,https://example.com/property/545
+Property 546,Apartment,Semi Finished,Giza,North Coast,315 sqm,2,3,"6,538,503 EGP",41858.070781512375,https://example.com/property/546
+Property 547,Villa,Unknown,Maadi,Suez,233 sqm,3,2,"9,932,962 EGP",31882.519636737685,https://example.com/property/547
+Property 548,Apartment,Fully Finished,Maadi,Giza,261 sqm,2,2,"7,888,316 EGP",35998.08392663556,https://example.com/property/548
+Property 549,Townhouse,Semi Finished,Maadi,North Coast,62 sqm,3,1,"2,645,476 EGP",40150.728081802095,https://example.com/property/549
+Property 550,Apartment,Fully Finished,Giza,North Coast,144 sqm,3,1,"2,172,235 EGP",34880.367552359225,https://example.com/property/550
+Property 551,Apartment,Semi Finished,Maadi,Cairo,176 sqm,5,2,"8,729,212 EGP",31603.17287688783,https://example.com/property/551
+Property 552,Apartment,Semi Finished,Maadi,Suez,370 sqm,3,1,"4,719,747 EGP",39984.57137551094,https://example.com/property/552
+Property 553,Apartment,Fully Finished,Sheikh Zayed,North Coast,55 sqm,4,4,"1,802,001 EGP",39102.52141728802,https://example.com/property/553
+Property 554,Apartment,Semi Finished,Cairo,Cairo,233 sqm,3,2,"8,691,008 EGP",35194.89600732716,https://example.com/property/554
+Property 555,Villa,Fully Finished,New Cairo,North Coast,465 sqm,2,1,"8,252,877 EGP",24391.576535277185,https://example.com/property/555
+Property 556,Apartment,Semi Finished,Cairo,Cairo,100 sqm,3,4,"9,847,110 EGP",26232.483688010863,https://example.com/property/556
+Property 557,Apartment,Unknown,Sheikh Zayed,Cairo,282 sqm,1,1,"9,142,565 EGP",48817.5419553639,https://example.com/property/557
+Property 558,Townhouse,Fully Finished,New Cairo,Suez,403 sqm,2,1,"8,592,008 EGP",14495.437291661034,https://example.com/property/558
+Property 559,Apartment,Semi Finished,Maadi,North Coast,474 sqm,1,1,"999,456 EGP",20740.196690113415,https://example.com/property/559
+Property 560,Townhouse,Semi Finished,Sheikh Zayed,Suez,386 sqm,2,2,"1,491,946 EGP",29696.070368173427,https://example.com/property/560
+Property 561,Villa,Unknown,Maadi,Cairo,374 sqm,4,3,"5,905,340 EGP",43469.187445751435,https://example.com/property/561
+Property 562,Apartment,Fully Finished,Giza,Giza,421 sqm,4,1,"5,549,052 EGP",16547.026549189115,https://example.com/property/562
+Property 563,Townhouse,Semi Finished,Sheikh Zayed,North Coast,250 sqm,4,4,"4,850,650 EGP",21078.184724984392,https://example.com/property/563
+Property 564,Townhouse,Unknown,Giza,Giza,412 sqm,1,2,"4,269,498 EGP",12631.92871180956,https://example.com/property/564
+Property 565,Villa,Semi Finished,Sheikh Zayed,North Coast,53 sqm,5,2,"4,596,499 EGP",38239.41064203274,https://example.com/property/565
+Property 566,Apartment,Fully Finished,Sheikh Zayed,Suez,466 sqm,2,4,"5,908,330 EGP",19528.377419024648,https://example.com/property/566
+Property 567,Apartment,Semi Finished,Giza,Suez,249 sqm,4,1,"519,726 EGP",25546.99002683802,https://example.com/property/567
+Property 568,Townhouse,Semi Finished,New Cairo,Suez,299 sqm,2,3,"2,976,733 EGP",27748.057881186713,https://example.com/property/568
+Property 569,Apartment,Semi Finished,Cairo,Suez,164 sqm,1,1,"5,423,657 EGP",45652.55742425823,https://example.com/property/569
+Property 570,Townhouse,Semi Finished,Maadi,Suez,384 sqm,5,4,"7,361,052 EGP",26453.211613249474,https://example.com/property/570
+Property 571,Apartment,Unknown,Sheikh Zayed,Giza,84 sqm,1,2,"2,154,488 EGP",15809.000796609962,https://example.com/property/571
+Property 572,Townhouse,Unknown,Maadi,Suez,442 sqm,2,3,"5,695,371 EGP",30972.59753360484,https://example.com/property/572
+Property 573,Apartment,Fully Finished,Giza,Cairo,422 sqm,5,2,"7,287,366 EGP",48518.31978594518,https://example.com/property/573
+Property 574,Villa,Unknown,Maadi,Cairo,147 sqm,5,4,"4,723,962 EGP",34307.42564203244,https://example.com/property/574
+Property 575,Apartment,Unknown,Giza,Giza,414 sqm,1,1,"757,270 EGP",49335.488818422906,https://example.com/property/575
+Property 576,Apartment,Fully Finished,Maadi,North Coast,403 sqm,4,3,"4,768,047 EGP",43644.292357554805,https://example.com/property/576
+Property 577,Villa,Unknown,Cairo,Cairo,334 sqm,2,2,"3,316,226 EGP",11438.630248536512,https://example.com/property/577
+Property 578,Apartment,Unknown,Cairo,North Coast,218 sqm,3,2,"9,331,671 EGP",36335.98381508167,https://example.com/property/578
+Property 579,Villa,Fully Finished,Cairo,Giza,172 sqm,3,2,"1,683,827 EGP",21470.67510231535,https://example.com/property/579
+Property 580,Apartment,Fully Finished,Cairo,North Coast,154 sqm,1,1,"6,698,521 EGP",32384.674225788953,https://example.com/property/580
+Property 581,Townhouse,Fully Finished,Cairo,North Coast,193 sqm,2,3,"1,000,837 EGP",21173.80763724906,https://example.com/property/581
+Property 582,Townhouse,Semi Finished,Cairo,North Coast,456 sqm,2,1,"4,738,619 EGP",23954.816664211616,https://example.com/property/582
+Property 583,Apartment,Semi Finished,Giza,North Coast,84 sqm,1,1,"5,762,805 EGP",46926.74847016717,https://example.com/property/583
+Property 584,Apartment,Fully Finished,Sheikh Zayed,Giza,422 sqm,2,1,"3,330,571 EGP",18265.72739566821,https://example.com/property/584
+Property 585,Apartment,Fully Finished,Maadi,Cairo,207 sqm,4,4,"4,823,218 EGP",44964.36472103322,https://example.com/property/585
+Property 586,Townhouse,Fully Finished,Cairo,Suez,284 sqm,1,4,"2,053,761 EGP",11218.312322819873,https://example.com/property/586
+Property 587,Apartment,Semi Finished,Giza,North Coast,407 sqm,4,4,"3,389,176 EGP",13635.061534785935,https://example.com/property/587
+Property 588,Townhouse,Semi Finished,Giza,Cairo,447 sqm,2,3,"6,400,510 EGP",44187.00165537054,https://example.com/property/588
+Property 589,Villa,Unknown,Giza,Cairo,205 sqm,1,1,"3,367,100 EGP",35222.241236367816,https://example.com/property/589
+Property 590,Townhouse,Unknown,Sheikh Zayed,Giza,257 sqm,2,1,"9,047,559 EGP",39889.445521582005,https://example.com/property/590
+Property 591,Townhouse,Fully Finished,Maadi,Cairo,236 sqm,1,4,"6,469,866 EGP",18376.70683287417,https://example.com/property/591
+Property 592,Villa,Semi Finished,Sheikh Zayed,Giza,55 sqm,2,1,"4,667,165 EGP",31483.33822360414,https://example.com/property/592
+Property 593,Townhouse,Semi Finished,New Cairo,North Coast,183 sqm,4,1,"868,190 EGP",39488.76894285219,https://example.com/property/593
+Property 594,Apartment,Semi Finished,Giza,North Coast,256 sqm,4,2,"5,245,709 EGP",35092.5654804105,https://example.com/property/594
+Property 595,Apartment,Fully Finished,New Cairo,Suez,234 sqm,2,1,"7,765,374 EGP",28867.95067564838,https://example.com/property/595
+Property 596,Townhouse,Unknown,Cairo,Suez,374 sqm,1,2,"3,022,797 EGP",48391.351457508594,https://example.com/property/596
+Property 597,Apartment,Fully Finished,Cairo,Suez,223 sqm,3,1,"8,164,348 EGP",37046.29333813781,https://example.com/property/597
+Property 598,Townhouse,Unknown,Sheikh Zayed,Cairo,270 sqm,4,3,"2,892,164 EGP",46310.03200964951,https://example.com/property/598
+Property 599,Apartment,Unknown,Maadi,North Coast,243 sqm,4,4,"8,325,590 EGP",39190.820462947246,https://example.com/property/599
+Property 600,Apartment,Fully Finished,New Cairo,Giza,383 sqm,3,2,"1,310,049 EGP",39418.54114390732,https://example.com/property/600
+Property 601,Townhouse,Unknown,Maadi,Suez,438 sqm,2,4,"8,728,745 EGP",13200.730790307174,https://example.com/property/601
+Property 602,Apartment,Unknown,Sheikh Zayed,Giza,289 sqm,1,2,"5,242,271 EGP",24378.584874157743,https://example.com/property/602
+Property 603,Townhouse,Semi Finished,Cairo,Giza,405 sqm,2,2,"3,317,107 EGP",44334.776268786336,https://example.com/property/603
+Property 604,Apartment,Unknown,Maadi,Suez,183 sqm,5,2,"3,018,575 EGP",19304.15448595024,https://example.com/property/604
+Property 605,Apartment,Fully Finished,Maadi,North Coast,293 sqm,4,3,"4,604,100 EGP",14620.234646258647,https://example.com/property/605
+Property 606,Villa,Fully Finished,Cairo,Suez,205 sqm,5,1,"9,990,970 EGP",23044.242265551737,https://example.com/property/606
+Property 607,Villa,Unknown,New Cairo,Giza,236 sqm,4,2,"2,593,110 EGP",18817.51539570456,https://example.com/property/607
+Property 608,Townhouse,Semi Finished,Cairo,Suez,379 sqm,4,3,"1,480,558 EGP",47011.52779172621,https://example.com/property/608
+Property 609,Villa,Semi Finished,Maadi,Giza,446 sqm,5,2,"6,057,834 EGP",44718.66568008524,https://example.com/property/609
+Property 610,Townhouse,Unknown,New Cairo,Giza,104 sqm,5,1,"5,141,153 EGP",29987.329211316166,https://example.com/property/610
+Property 611,Villa,Unknown,New Cairo,Suez,335 sqm,2,2,"5,479,864 EGP",12453.75497935472,https://example.com/property/611
+Property 612,Apartment,Fully Finished,Cairo,Cairo,311 sqm,5,3,"6,835,886 EGP",38582.493843726246,https://example.com/property/612
+Property 613,Townhouse,Unknown,Maadi,Suez,103 sqm,2,1,"3,037,868 EGP",34936.46925345059,https://example.com/property/613
+Property 614,Townhouse,Semi Finished,Sheikh Zayed,Cairo,145 sqm,2,3,"9,151,317 EGP",48822.186829139835,https://example.com/property/614
+Property 615,Apartment,Unknown,Maadi,Giza,189 sqm,2,1,"4,638,884 EGP",32358.12961081508,https://example.com/property/615
+Property 616,Townhouse,Fully Finished,Giza,Giza,125 sqm,4,1,"1,726,318 EGP",23455.748936116375,https://example.com/property/616
+Property 617,Townhouse,Fully Finished,Sheikh Zayed,Cairo,159 sqm,4,4,"7,551,838 EGP",30760.86774314223,https://example.com/property/617
+Property 618,Villa,Fully Finished,New Cairo,Giza,170 sqm,5,4,"6,609,491 EGP",49170.531656180654,https://example.com/property/618
+Property 619,Townhouse,Fully Finished,Sheikh Zayed,Cairo,201 sqm,4,4,"3,499,562 EGP",37854.49730132122,https://example.com/property/619
+Property 620,Apartment,Fully Finished,New Cairo,Cairo,387 sqm,5,1,"6,404,427 EGP",36879.04551708205,https://example.com/property/620
+Property 621,Villa,Unknown,New Cairo,Giza,307 sqm,4,2,"2,588,688 EGP",19627.263589035414,https://example.com/property/621
+Property 622,Villa,Unknown,Sheikh Zayed,North Coast,493 sqm,1,3,"4,725,973 EGP",39744.10070242471,https://example.com/property/622
+Property 623,Apartment,Unknown,New Cairo,Cairo,236 sqm,1,3,"9,044,418 EGP",40010.87317887087,https://example.com/property/623
+Property 624,Apartment,Unknown,New Cairo,Suez,389 sqm,5,3,"1,768,575 EGP",22691.559351036212,https://example.com/property/624
+Property 625,Villa,Fully Finished,Giza,Suez,442 sqm,4,4,"4,173,616 EGP",29348.553295628528,https://example.com/property/625
+Property 626,Townhouse,Semi Finished,Maadi,Giza,355 sqm,4,1,"8,300,853 EGP",21784.13331761824,https://example.com/property/626
+Property 627,Villa,Unknown,Maadi,North Coast,235 sqm,2,4,"9,710,163 EGP",20348.202812971467,https://example.com/property/627
+Property 628,Apartment,Semi Finished,Giza,Giza,389 sqm,3,2,"4,812,298 EGP",11035.842809979406,https://example.com/property/628
+Property 629,Villa,Unknown,Sheikh Zayed,North Coast,141 sqm,5,1,"5,316,496 EGP",21408.469786133282,https://example.com/property/629
+Property 630,Apartment,Unknown,Cairo,Cairo,197 sqm,3,3,"5,935,633 EGP",32158.797995130994,https://example.com/property/630
+Property 631,Villa,Semi Finished,Cairo,Cairo,296 sqm,3,4,"9,357,307 EGP",10064.047501961153,https://example.com/property/631
+Property 632,Townhouse,Fully Finished,Cairo,Cairo,308 sqm,5,4,"8,652,964 EGP",21328.763352386697,https://example.com/property/632
+Property 633,Villa,Unknown,Giza,Cairo,59 sqm,4,2,"2,120,710 EGP",45256.41329293,https://example.com/property/633
+Property 634,Villa,Unknown,Giza,Suez,475 sqm,5,2,"4,649,199 EGP",33745.943404294434,https://example.com/property/634
+Property 635,Apartment,Unknown,New Cairo,Suez,363 sqm,3,4,"4,908,004 EGP",34314.51296323922,https://example.com/property/635
+Property 636,Apartment,Semi Finished,Cairo,Giza,273 sqm,4,2,"7,996,413 EGP",26134.57220105413,https://example.com/property/636
+Property 637,Apartment,Fully Finished,Sheikh Zayed,North Coast,469 sqm,1,3,"6,227,482 EGP",37058.885739696445,https://example.com/property/637
+Property 638,Villa,Semi Finished,Sheikh Zayed,Cairo,247 sqm,5,2,"6,715,094 EGP",17597.310649214367,https://example.com/property/638
+Property 639,Townhouse,Semi Finished,Cairo,Cairo,491 sqm,5,2,"9,982,899 EGP",42749.87241536766,https://example.com/property/639
+Property 640,Apartment,Fully Finished,Cairo,North Coast,280 sqm,4,4,"1,212,120 EGP",14667.564797435993,https://example.com/property/640
+Property 641,Apartment,Semi Finished,Cairo,North Coast,101 sqm,1,4,"2,618,593 EGP",36240.05418612437,https://example.com/property/641
+Property 642,Villa,Fully Finished,Giza,Giza,394 sqm,1,1,"4,375,011 EGP",23645.973032787322,https://example.com/property/642
+Property 643,Apartment,Unknown,Giza,North Coast,355 sqm,4,1,"3,803,932 EGP",39900.51882329908,https://example.com/property/643
+Property 644,Townhouse,Fully Finished,Giza,Cairo,397 sqm,2,4,"705,632 EGP",31990.582050640798,https://example.com/property/644
+Property 645,Townhouse,Unknown,Maadi,Cairo,478 sqm,5,2,"1,371,887 EGP",28094.121539148648,https://example.com/property/645
+Property 646,Apartment,Semi Finished,Sheikh Zayed,Cairo,399 sqm,5,2,"6,969,056 EGP",16776.89608372988,https://example.com/property/646
+Property 647,Apartment,Semi Finished,Sheikh Zayed,Cairo,325 sqm,3,1,"8,853,582 EGP",35472.85857137411,https://example.com/property/647
+Property 648,Villa,Unknown,New Cairo,Cairo,435 sqm,4,1,"5,385,156 EGP",48990.79373681652,https://example.com/property/648
+Property 649,Townhouse,Semi Finished,Giza,Giza,352 sqm,3,1,"5,622,315 EGP",43024.1369962806,https://example.com/property/649
+Property 650,Townhouse,Fully Finished,Maadi,Cairo,233 sqm,3,3,"2,923,387 EGP",12400.327703560471,https://example.com/property/650
+Property 651,Apartment,Unknown,Maadi,Giza,448 sqm,1,3,"7,794,825 EGP",25049.175134447643,https://example.com/property/651
+Property 652,Villa,Semi Finished,Sheikh Zayed,Cairo,149 sqm,5,1,"7,642,048 EGP",47023.320367610875,https://example.com/property/652
+Property 653,Townhouse,Unknown,Giza,Suez,371 sqm,3,2,"6,089,474 EGP",30121.749902280855,https://example.com/property/653
+Property 654,Townhouse,Fully Finished,New Cairo,Suez,446 sqm,1,1,"2,520,310 EGP",36484.473032327165,https://example.com/property/654
+Property 655,Villa,Fully Finished,Giza,Suez,379 sqm,4,3,"1,421,673 EGP",46503.973823655615,https://example.com/property/655
+Property 656,Villa,Semi Finished,Cairo,Suez,363 sqm,3,2,"1,110,266 EGP",44951.78761679523,https://example.com/property/656
+Property 657,Townhouse,Fully Finished,Giza,Giza,388 sqm,5,3,"6,130,612 EGP",30072.815021620438,https://example.com/property/657
+Property 658,Townhouse,Unknown,Cairo,Giza,259 sqm,3,2,"8,337,835 EGP",27505.852106304083,https://example.com/property/658
+Property 659,Villa,Fully Finished,Cairo,North Coast,443 sqm,4,3,"8,654,139 EGP",23587.704739183486,https://example.com/property/659
+Property 660,Townhouse,Unknown,New Cairo,Cairo,141 sqm,3,2,"4,904,409 EGP",38760.77772651565,https://example.com/property/660
+Property 661,Apartment,Unknown,Sheikh Zayed,Suez,107 sqm,5,2,"7,950,577 EGP",21479.47197886173,https://example.com/property/661
+Property 662,Apartment,Fully Finished,Giza,Giza,178 sqm,1,2,"9,495,361 EGP",19995.504257236003,https://example.com/property/662
+Property 663,Villa,Semi Finished,Cairo,Cairo,289 sqm,5,2,"3,114,116 EGP",24249.995784151204,https://example.com/property/663
+Property 664,Villa,Fully Finished,Giza,Cairo,279 sqm,1,4,"4,280,623 EGP",17088.60227515168,https://example.com/property/664
+Property 665,Villa,Unknown,Sheikh Zayed,Giza,419 sqm,2,3,"9,349,050 EGP",37804.792637830695,https://example.com/property/665
+Property 666,Apartment,Unknown,Sheikh Zayed,Suez,232 sqm,5,3,"3,713,194 EGP",34649.625973224494,https://example.com/property/666
+Property 667,Townhouse,Fully Finished,Maadi,North Coast,267 sqm,5,4,"9,181,824 EGP",29315.141364633742,https://example.com/property/667
+Property 668,Apartment,Semi Finished,Sheikh Zayed,Cairo,56 sqm,4,2,"9,819,926 EGP",25613.031170462185,https://example.com/property/668
+Property 669,Townhouse,Semi Finished,New Cairo,North Coast,234 sqm,3,2,"6,787,201 EGP",46362.50171586926,https://example.com/property/669
+Property 670,Apartment,Unknown,Cairo,Suez,341 sqm,1,3,"8,260,457 EGP",11164.951399564212,https://example.com/property/670
+Property 671,Townhouse,Unknown,Maadi,Suez,56 sqm,1,4,"7,620,682 EGP",40764.30974029197,https://example.com/property/671
+Property 672,Apartment,Semi Finished,New Cairo,North Coast,176 sqm,4,2,"7,145,575 EGP",46076.38286995555,https://example.com/property/672
+Property 673,Villa,Fully Finished,Giza,Suez,143 sqm,4,2,"3,415,845 EGP",27854.18317719704,https://example.com/property/673
+Property 674,Apartment,Unknown,Cairo,Cairo,68 sqm,3,2,"1,042,396 EGP",32027.619658825868,https://example.com/property/674
+Property 675,Townhouse,Unknown,Sheikh Zayed,North Coast,265 sqm,3,1,"3,758,991 EGP",47778.54751528152,https://example.com/property/675
+Property 676,Apartment,Semi Finished,Cairo,Suez,131 sqm,5,4,"6,835,891 EGP",18491.100611420577,https://example.com/property/676
+Property 677,Apartment,Fully Finished,Giza,North Coast,384 sqm,2,2,"1,474,027 EGP",30805.393911387397,https://example.com/property/677
+Property 678,Apartment,Semi Finished,Maadi,Cairo,431 sqm,3,1,"613,220 EGP",28988.845085128516,https://example.com/property/678
+Property 679,Villa,Fully Finished,Maadi,Suez,295 sqm,4,4,"1,827,077 EGP",20335.705914814804,https://example.com/property/679
+Property 680,Apartment,Fully Finished,Maadi,Cairo,491 sqm,3,2,"7,299,491 EGP",42743.729214924315,https://example.com/property/680
+Property 681,Villa,Fully Finished,Sheikh Zayed,Suez,252 sqm,1,3,"9,741,540 EGP",45984.023790529434,https://example.com/property/681
+Property 682,Villa,Unknown,New Cairo,Giza,281 sqm,2,1,"9,839,114 EGP",41277.30319152835,https://example.com/property/682
+Property 683,Apartment,Semi Finished,New Cairo,Suez,495 sqm,5,1,"5,192,801 EGP",17814.358433944333,https://example.com/property/683
+Property 684,Apartment,Semi Finished,Cairo,North Coast,154 sqm,1,2,"8,758,846 EGP",13469.945420055263,https://example.com/property/684
+Property 685,Apartment,Fully Finished,Sheikh Zayed,Suez,474 sqm,1,2,"7,499,851 EGP",34217.7794122137,https://example.com/property/685
+Property 686,Townhouse,Unknown,Maadi,Cairo,69 sqm,2,1,"5,259,882 EGP",12283.790420395359,https://example.com/property/686
+Property 687,Apartment,Unknown,Maadi,Cairo,250 sqm,5,3,"5,941,225 EGP",36913.03554232337,https://example.com/property/687
+Property 688,Villa,Semi Finished,Giza,Suez,81 sqm,4,3,"1,803,657 EGP",31216.96881308971,https://example.com/property/688
+Property 689,Apartment,Unknown,Giza,North Coast,378 sqm,5,4,"9,407,783 EGP",36511.42930974654,https://example.com/property/689
+Property 690,Townhouse,Unknown,Maadi,Giza,323 sqm,3,2,"3,843,332 EGP",33606.83094598976,https://example.com/property/690
+Property 691,Apartment,Fully Finished,Maadi,North Coast,367 sqm,1,3,"4,738,417 EGP",26908.102781086913,https://example.com/property/691
+Property 692,Townhouse,Unknown,Sheikh Zayed,Giza,218 sqm,3,4,"6,880,772 EGP",18035.087205609132,https://example.com/property/692
+Property 693,Townhouse,Fully Finished,New Cairo,Cairo,216 sqm,4,3,"3,672,073 EGP",22228.085432419542,https://example.com/property/693
+Property 694,Apartment,Semi Finished,Giza,North Coast,70 sqm,3,2,"2,915,462 EGP",30980.022968759058,https://example.com/property/694
+Property 695,Villa,Unknown,New Cairo,Giza,207 sqm,5,4,"6,494,969 EGP",36074.72374590424,https://example.com/property/695
+Property 696,Townhouse,Semi Finished,Sheikh Zayed,Suez,468 sqm,3,4,"737,348 EGP",41179.32067538114,https://example.com/property/696
+Property 697,Apartment,Semi Finished,Maadi,Cairo,220 sqm,4,4,"7,346,888 EGP",40686.82873796244,https://example.com/property/697
+Property 698,Apartment,Unknown,New Cairo,Suez,424 sqm,4,3,"5,383,222 EGP",48907.54973044341,https://example.com/property/698
+Property 699,Villa,Unknown,Maadi,Cairo,429 sqm,4,2,"6,254,660 EGP",21433.657946536376,https://example.com/property/699
+Property 700,Townhouse,Semi Finished,Maadi,North Coast,217 sqm,5,4,"6,502,861 EGP",12844.428328537471,https://example.com/property/700
+Property 701,Townhouse,Unknown,Cairo,North Coast,334 sqm,4,1,"5,506,976 EGP",23826.27742167437,https://example.com/property/701
+Property 702,Apartment,Fully Finished,New Cairo,Cairo,92 sqm,1,2,"6,034,070 EGP",39731.779008963065,https://example.com/property/702
+Property 703,Apartment,Fully Finished,New Cairo,Cairo,96 sqm,4,1,"6,995,987 EGP",27524.46604133181,https://example.com/property/703
+Property 704,Villa,Unknown,Maadi,Cairo,71 sqm,3,1,"7,654,629 EGP",42711.53722357677,https://example.com/property/704
+Property 705,Villa,Semi Finished,Sheikh Zayed,North Coast,311 sqm,3,4,"7,410,797 EGP",31973.054607440597,https://example.com/property/705
+Property 706,Townhouse,Unknown,Cairo,Giza,241 sqm,3,4,"8,761,356 EGP",47191.66890522012,https://example.com/property/706
+Property 707,Townhouse,Unknown,Maadi,Suez,296 sqm,5,3,"2,299,712 EGP",47914.537679962756,https://example.com/property/707
+Property 708,Apartment,Semi Finished,Giza,Suez,284 sqm,3,3,"4,310,905 EGP",12772.180240749949,https://example.com/property/708
+Property 709,Townhouse,Semi Finished,Giza,North Coast,207 sqm,5,3,"9,504,062 EGP",28256.537588496973,https://example.com/property/709
+Property 710,Villa,Fully Finished,Cairo,Suez,354 sqm,5,2,"4,267,610 EGP",34387.562449982725,https://example.com/property/710
+Property 711,Villa,Semi Finished,Sheikh Zayed,Cairo,391 sqm,4,3,"1,686,265 EGP",20234.90163248851,https://example.com/property/711
+Property 712,Apartment,Fully Finished,Maadi,Giza,56 sqm,1,1,"5,491,728 EGP",26283.07117515921,https://example.com/property/712
+Property 713,Villa,Semi Finished,New Cairo,Suez,143 sqm,4,3,"1,540,164 EGP",37107.261644707934,https://example.com/property/713
+Property 714,Villa,Unknown,Cairo,Giza,370 sqm,4,4,"2,427,105 EGP",19069.369075934457,https://example.com/property/714
+Property 715,Villa,Fully Finished,Sheikh Zayed,Cairo,223 sqm,5,3,"9,984,028 EGP",34079.2541189781,https://example.com/property/715
+Property 716,Villa,Fully Finished,New Cairo,Suez,348 sqm,5,2,"5,642,945 EGP",37897.91312657224,https://example.com/property/716
+Property 717,Apartment,Fully Finished,Giza,North Coast,206 sqm,3,2,"3,198,554 EGP",13619.85244383467,https://example.com/property/717
+Property 718,Apartment,Unknown,Giza,Giza,225 sqm,3,1,"9,950,362 EGP",29901.17264109811,https://example.com/property/718
+Property 719,Townhouse,Unknown,New Cairo,Cairo,121 sqm,4,2,"9,682,309 EGP",20523.20119696763,https://example.com/property/719
+Property 720,Villa,Unknown,Cairo,Giza,166 sqm,2,3,"4,687,020 EGP",38975.45423992178,https://example.com/property/720
+Property 721,Townhouse,Unknown,Giza,Suez,322 sqm,2,4,"2,973,829 EGP",17582.22034147762,https://example.com/property/721
+Property 722,Apartment,Unknown,Maadi,Suez,244 sqm,3,2,"8,464,796 EGP",45689.51662152426,https://example.com/property/722
+Property 723,Apartment,Fully Finished,New Cairo,North Coast,398 sqm,2,1,"7,298,396 EGP",27237.653460733076,https://example.com/property/723
+Property 724,Apartment,Unknown,New Cairo,Cairo,433 sqm,3,3,"7,025,943 EGP",17920.12121230214,https://example.com/property/724
+Property 725,Apartment,Fully Finished,Giza,Cairo,293 sqm,5,1,"8,984,580 EGP",27520.871854013174,https://example.com/property/725
+Property 726,Apartment,Unknown,Cairo,North Coast,391 sqm,4,2,"7,049,462 EGP",26349.750512341114,https://example.com/property/726
+Property 727,Apartment,Semi Finished,Maadi,North Coast,188 sqm,1,2,"3,196,080 EGP",27156.75837974841,https://example.com/property/727
+Property 728,Apartment,Fully Finished,Cairo,Cairo,236 sqm,4,1,"7,091,700 EGP",33422.45173989788,https://example.com/property/728
+Property 729,Villa,Semi Finished,Sheikh Zayed,Giza,370 sqm,3,3,"3,405,228 EGP",30846.9489965415,https://example.com/property/729
+Property 730,Townhouse,Fully Finished,Sheikh Zayed,Giza,223 sqm,3,2,"7,712,770 EGP",15991.085267236107,https://example.com/property/730
+Property 731,Apartment,Semi Finished,Giza,North Coast,314 sqm,4,4,"6,387,604 EGP",12623.162905865453,https://example.com/property/731
+Property 732,Villa,Unknown,Giza,Giza,133 sqm,3,2,"1,235,409 EGP",39176.61794906162,https://example.com/property/732
+Property 733,Villa,Unknown,Giza,Cairo,319 sqm,2,3,"5,371,935 EGP",32388.697437132538,https://example.com/property/733
+Property 734,Townhouse,Unknown,Sheikh Zayed,Suez,437 sqm,2,2,"3,761,359 EGP",24360.030723170552,https://example.com/property/734
+Property 735,Apartment,Fully Finished,Cairo,Suez,440 sqm,3,1,"3,621,421 EGP",42334.31289992295,https://example.com/property/735
+Property 736,Townhouse,Semi Finished,Cairo,Giza,375 sqm,3,2,"6,221,434 EGP",25522.33897043828,https://example.com/property/736
+Property 737,Apartment,Unknown,Giza,North Coast,385 sqm,2,2,"3,562,085 EGP",41838.6035840243,https://example.com/property/737
+Property 738,Villa,Semi Finished,Maadi,North Coast,301 sqm,3,3,"7,880,490 EGP",22230.245100494987,https://example.com/property/738
+Property 739,Villa,Semi Finished,Cairo,North Coast,313 sqm,3,1,"1,172,518 EGP",12913.81190180799,https://example.com/property/739
+Property 740,Villa,Unknown,Sheikh Zayed,North Coast,110 sqm,4,3,"6,773,688 EGP",47305.58775199716,https://example.com/property/740
+Property 741,Villa,Unknown,New Cairo,North Coast,249 sqm,1,2,"8,187,350 EGP",25782.045171254926,https://example.com/property/741
+Property 742,Townhouse,Semi Finished,New Cairo,Giza,252 sqm,2,4,"6,891,901 EGP",41707.70291397511,https://example.com/property/742
+Property 743,Apartment,Unknown,New Cairo,Suez,481 sqm,4,2,"5,223,677 EGP",21165.76532889218,https://example.com/property/743
+Property 744,Apartment,Unknown,Maadi,Suez,243 sqm,1,3,"9,527,916 EGP",35854.60448494624,https://example.com/property/744
+Property 745,Townhouse,Unknown,Giza,Giza,297 sqm,3,4,"3,349,415 EGP",44932.43493030913,https://example.com/property/745
+Property 746,Apartment,Fully Finished,Sheikh Zayed,North Coast,289 sqm,3,3,"682,094 EGP",11665.760893599214,https://example.com/property/746
+Property 747,Villa,Semi Finished,Maadi,Giza,336 sqm,4,3,"4,603,899 EGP",43225.43058744357,https://example.com/property/747
+Property 748,Apartment,Semi Finished,Sheikh Zayed,Suez,386 sqm,3,1,"813,613 EGP",32853.32019887715,https://example.com/property/748
+Property 749,Villa,Fully Finished,Sheikh Zayed,Cairo,151 sqm,5,4,"9,562,399 EGP",34298.87015634277,https://example.com/property/749
+Property 750,Townhouse,Semi Finished,Giza,Giza,287 sqm,4,2,"2,494,221 EGP",30926.320032239306,https://example.com/property/750
+Property 751,Apartment,Unknown,New Cairo,North Coast,421 sqm,1,3,"7,994,806 EGP",44979.0041313457,https://example.com/property/751
+Property 752,Townhouse,Semi Finished,Giza,Suez,258 sqm,4,2,"7,858,434 EGP",11737.334289425498,https://example.com/property/752
+Property 753,Apartment,Unknown,Maadi,Suez,175 sqm,2,1,"2,568,424 EGP",20441.135661433924,https://example.com/property/753
+Property 754,Villa,Fully Finished,Maadi,Suez,344 sqm,4,1,"6,401,652 EGP",45030.501554366216,https://example.com/property/754
+Property 755,Townhouse,Unknown,Maadi,Suez,420 sqm,3,4,"956,750 EGP",40093.82810127824,https://example.com/property/755
+Property 756,Apartment,Semi Finished,Giza,North Coast,78 sqm,3,1,"5,093,958 EGP",10705.806407144233,https://example.com/property/756
+Property 757,Villa,Semi Finished,Sheikh Zayed,Cairo,399 sqm,5,1,"639,147 EGP",30680.251328388345,https://example.com/property/757
+Property 758,Townhouse,Semi Finished,Sheikh Zayed,Suez,419 sqm,5,2,"9,250,866 EGP",31182.907228506992,https://example.com/property/758
+Property 759,Townhouse,Fully Finished,Cairo,Giza,257 sqm,5,1,"9,772,817 EGP",26035.285405116418,https://example.com/property/759
+Property 760,Apartment,Fully Finished,Maadi,Cairo,492 sqm,1,1,"2,611,686 EGP",21895.73328247959,https://example.com/property/760
+Property 761,Apartment,Semi Finished,Sheikh Zayed,Suez,404 sqm,5,3,"2,477,007 EGP",37268.994016493685,https://example.com/property/761
+Property 762,Apartment,Unknown,Cairo,Cairo,398 sqm,1,1,"7,660,341 EGP",18311.618588190155,https://example.com/property/762
+Property 763,Villa,Fully Finished,Sheikh Zayed,Giza,386 sqm,5,3,"2,907,104 EGP",41957.94248286824,https://example.com/property/763
+Property 764,Apartment,Semi Finished,Maadi,Suez,117 sqm,1,1,"9,003,227 EGP",42121.486430698875,https://example.com/property/764
+Property 765,Townhouse,Semi Finished,New Cairo,Giza,147 sqm,4,1,"5,952,326 EGP",26610.45750291282,https://example.com/property/765
+Property 766,Townhouse,Fully Finished,Maadi,North Coast,258 sqm,4,4,"3,832,387 EGP",21341.920436385906,https://example.com/property/766
+Property 767,Apartment,Fully Finished,Giza,Suez,168 sqm,3,4,"8,410,590 EGP",21355.12726362853,https://example.com/property/767
+Property 768,Apartment,Fully Finished,Sheikh Zayed,Suez,236 sqm,1,3,"5,187,363 EGP",29291.652959848405,https://example.com/property/768
+Property 769,Townhouse,Unknown,Sheikh Zayed,Suez,449 sqm,2,1,"9,160,512 EGP",38783.16898997435,https://example.com/property/769
+Property 770,Villa,Unknown,Giza,Suez,420 sqm,3,2,"9,316,135 EGP",24354.74763975435,https://example.com/property/770
+Property 771,Apartment,Semi Finished,Giza,North Coast,333 sqm,4,4,"2,071,491 EGP",34401.733818310066,https://example.com/property/771
+Property 772,Apartment,Fully Finished,New Cairo,Suez,436 sqm,1,2,"522,072 EGP",25299.378423303773,https://example.com/property/772
+Property 773,Townhouse,Unknown,Sheikh Zayed,Cairo,402 sqm,5,4,"9,847,343 EGP",22180.927566055332,https://example.com/property/773
+Property 774,Apartment,Fully Finished,Sheikh Zayed,Suez,243 sqm,2,4,"9,108,306 EGP",10994.380636631766,https://example.com/property/774
+Property 775,Villa,Semi Finished,New Cairo,North Coast,140 sqm,4,1,"1,026,729 EGP",10156.564229415626,https://example.com/property/775
+Property 776,Townhouse,Unknown,Cairo,Suez,281 sqm,3,4,"8,413,825 EGP",19088.307113280178,https://example.com/property/776
+Property 777,Apartment,Unknown,New Cairo,Cairo,381 sqm,1,2,"4,849,146 EGP",26256.251472039818,https://example.com/property/777
+Property 778,Townhouse,Unknown,Maadi,North Coast,246 sqm,2,4,"2,960,135 EGP",44050.44669448241,https://example.com/property/778
+Property 779,Apartment,Semi Finished,Sheikh Zayed,North Coast,350 sqm,1,3,"8,848,091 EGP",41939.36971721702,https://example.com/property/779
+Property 780,Apartment,Fully Finished,Giza,Cairo,92 sqm,5,1,"2,368,338 EGP",20686.610503519594,https://example.com/property/780
+Property 781,Apartment,Unknown,Maadi,Cairo,386 sqm,3,1,"9,499,349 EGP",19781.617719371974,https://example.com/property/781
+Property 782,Villa,Semi Finished,Sheikh Zayed,Cairo,415 sqm,1,3,"2,453,404 EGP",19092.882842801097,https://example.com/property/782
+Property 783,Villa,Fully Finished,New Cairo,Cairo,368 sqm,4,3,"6,329,990 EGP",23569.49362115468,https://example.com/property/783
+Property 784,Townhouse,Semi Finished,Maadi,Cairo,485 sqm,3,3,"2,619,320 EGP",29927.948782467414,https://example.com/property/784
+Property 785,Apartment,Fully Finished,Sheikh Zayed,North Coast,421 sqm,4,4,"5,683,852 EGP",27546.710881263018,https://example.com/property/785
+Property 786,Apartment,Semi Finished,Cairo,North Coast,456 sqm,1,1,"6,997,763 EGP",18730.92795125975,https://example.com/property/786
+Property 787,Villa,Fully Finished,Cairo,Suez,470 sqm,3,3,"2,307,165 EGP",15218.056397744722,https://example.com/property/787
+Property 788,Apartment,Unknown,Giza,Suez,410 sqm,4,4,"5,448,414 EGP",10503.112499447816,https://example.com/property/788
+Property 789,Villa,Fully Finished,Sheikh Zayed,Giza,353 sqm,5,3,"4,956,067 EGP",16158.529546660153,https://example.com/property/789
+Property 790,Apartment,Semi Finished,Cairo,Suez,52 sqm,5,2,"1,174,855 EGP",38214.25480776473,https://example.com/property/790
+Property 791,Townhouse,Semi Finished,New Cairo,Suez,259 sqm,1,2,"8,273,924 EGP",19745.54277382332,https://example.com/property/791
+Property 792,Apartment,Fully Finished,Sheikh Zayed,Cairo,307 sqm,3,1,"3,688,982 EGP",28744.07240486039,https://example.com/property/792
+Property 793,Apartment,Unknown,New Cairo,Cairo,186 sqm,2,4,"5,958,530 EGP",33652.04595692979,https://example.com/property/793
+Property 794,Villa,Unknown,New Cairo,Suez,193 sqm,3,2,"5,390,450 EGP",45473.636113264285,https://example.com/property/794
+Property 795,Apartment,Fully Finished,Cairo,Giza,482 sqm,5,2,"5,375,974 EGP",45554.203935736776,https://example.com/property/795
+Property 796,Apartment,Fully Finished,Sheikh Zayed,Cairo,451 sqm,4,4,"1,518,612 EGP",39829.34934725436,https://example.com/property/796
+Property 797,Villa,Semi Finished,Maadi,Suez,432 sqm,2,3,"4,523,079 EGP",11406.279681940057,https://example.com/property/797
+Property 798,Townhouse,Unknown,Cairo,Suez,232 sqm,1,4,"4,797,484 EGP",33002.816763416595,https://example.com/property/798
+Property 799,Townhouse,Fully Finished,Cairo,North Coast,56 sqm,2,3,"7,469,606 EGP",41463.33883326026,https://example.com/property/799
+Property 800,Villa,Unknown,Sheikh Zayed,Giza,86 sqm,1,2,"8,480,178 EGP",10691.521790534529,https://example.com/property/800
+Property 801,Villa,Fully Finished,Sheikh Zayed,North Coast,190 sqm,2,2,"5,677,331 EGP",31987.384546263133,https://example.com/property/801
+Property 802,Villa,Fully Finished,New Cairo,Giza,57 sqm,1,2,"1,324,438 EGP",44310.56583144118,https://example.com/property/802
+Property 803,Villa,Unknown,Sheikh Zayed,Cairo,57 sqm,1,1,"2,750,069 EGP",28964.083033690677,https://example.com/property/803
+Property 804,Villa,Fully Finished,New Cairo,Giza,462 sqm,2,1,"2,066,873 EGP",10164.248115897939,https://example.com/property/804
+Property 805,Townhouse,Fully Finished,Cairo,Suez,367 sqm,2,1,"1,683,843 EGP",10440.534333424299,https://example.com/property/805
+Property 806,Townhouse,Semi Finished,Giza,Suez,189 sqm,1,4,"3,976,043 EGP",26665.441496550022,https://example.com/property/806
+Property 807,Villa,Fully Finished,Maadi,Giza,109 sqm,5,2,"2,679,238 EGP",16200.346696670182,https://example.com/property/807
+Property 808,Apartment,Fully Finished,Cairo,Giza,280 sqm,2,2,"2,573,879 EGP",36578.02628373038,https://example.com/property/808
+Property 809,Villa,Fully Finished,Sheikh Zayed,Giza,52 sqm,3,4,"1,019,585 EGP",38351.97059624616,https://example.com/property/809
+Property 810,Apartment,Semi Finished,Maadi,North Coast,472 sqm,4,1,"667,865 EGP",17115.191818425144,https://example.com/property/810
+Property 811,Villa,Unknown,Giza,Giza,236 sqm,1,4,"1,476,298 EGP",45541.331540979394,https://example.com/property/811
+Property 812,Villa,Semi Finished,Giza,Cairo,231 sqm,1,1,"2,135,876 EGP",27676.313799157037,https://example.com/property/812
+Property 813,Townhouse,Semi Finished,New Cairo,North Coast,225 sqm,4,2,"4,594,345 EGP",15713.836303676948,https://example.com/property/813
+Property 814,Apartment,Unknown,Maadi,North Coast,81 sqm,5,3,"5,349,942 EGP",40570.06392277582,https://example.com/property/814
+Property 815,Apartment,Semi Finished,New Cairo,Giza,337 sqm,4,1,"1,835,623 EGP",41598.98000067091,https://example.com/property/815
+Property 816,Townhouse,Unknown,Cairo,Cairo,379 sqm,2,2,"4,535,441 EGP",35571.8189066183,https://example.com/property/816
+Property 817,Townhouse,Semi Finished,Maadi,North Coast,354 sqm,4,2,"3,746,614 EGP",44138.62212810213,https://example.com/property/817
+Property 818,Townhouse,Unknown,Cairo,Suez,112 sqm,1,3,"2,242,524 EGP",39494.918881226855,https://example.com/property/818
+Property 819,Townhouse,Fully Finished,New Cairo,North Coast,310 sqm,4,2,"564,987 EGP",45288.229489079626,https://example.com/property/819
+Property 820,Apartment,Semi Finished,Maadi,Giza,306 sqm,3,2,"4,936,669 EGP",27355.521939419177,https://example.com/property/820
+Property 821,Apartment,Semi Finished,New Cairo,Cairo,440 sqm,2,1,"7,013,691 EGP",39903.8851239777,https://example.com/property/821
+Property 822,Villa,Semi Finished,Maadi,Giza,220 sqm,4,1,"2,649,634 EGP",49990.06253716177,https://example.com/property/822
+Property 823,Villa,Semi Finished,New Cairo,Suez,217 sqm,1,3,"1,752,164 EGP",38997.24790078477,https://example.com/property/823
+Property 824,Townhouse,Fully Finished,Giza,Suez,328 sqm,2,3,"8,926,906 EGP",14567.351209485287,https://example.com/property/824
+Property 825,Townhouse,Semi Finished,New Cairo,Suez,334 sqm,1,2,"3,112,735 EGP",30732.74889716732,https://example.com/property/825
+Property 826,Townhouse,Fully Finished,Giza,Giza,261 sqm,5,1,"2,624,319 EGP",33493.91164972112,https://example.com/property/826
+Property 827,Villa,Fully Finished,New Cairo,North Coast,249 sqm,3,3,"8,642,420 EGP",16968.42700285564,https://example.com/property/827
+Property 828,Villa,Fully Finished,Maadi,Giza,272 sqm,5,3,"8,262,517 EGP",48515.6653671215,https://example.com/property/828
+Property 829,Villa,Fully Finished,Maadi,Cairo,437 sqm,3,4,"4,759,291 EGP",17023.191105384652,https://example.com/property/829
+Property 830,Villa,Unknown,Maadi,North Coast,257 sqm,4,3,"5,147,769 EGP",17102.31678852891,https://example.com/property/830
+Property 831,Villa,Unknown,Sheikh Zayed,Suez,472 sqm,2,2,"2,568,612 EGP",46606.6855189822,https://example.com/property/831
+Property 832,Villa,Semi Finished,Cairo,Giza,276 sqm,4,1,"1,243,865 EGP",28608.217324866844,https://example.com/property/832
+Property 833,Villa,Unknown,Maadi,Suez,477 sqm,3,3,"5,947,602 EGP",12527.531170980648,https://example.com/property/833
+Property 834,Townhouse,Unknown,Giza,Suez,424 sqm,3,4,"1,434,276 EGP",33927.49999754115,https://example.com/property/834
+Property 835,Townhouse,Semi Finished,Maadi,Cairo,213 sqm,3,1,"4,768,108 EGP",34073.05394532191,https://example.com/property/835
+Property 836,Townhouse,Semi Finished,Sheikh Zayed,North Coast,438 sqm,1,3,"9,434,723 EGP",12580.030347462472,https://example.com/property/836
+Property 837,Townhouse,Semi Finished,Giza,Cairo,99 sqm,2,4,"9,551,926 EGP",48900.89982534648,https://example.com/property/837
+Property 838,Villa,Unknown,Sheikh Zayed,Cairo,466 sqm,4,3,"2,773,656 EGP",31761.198611783024,https://example.com/property/838
+Property 839,Apartment,Unknown,Giza,Cairo,334 sqm,4,1,"6,429,077 EGP",32391.82888719057,https://example.com/property/839
+Property 840,Villa,Semi Finished,New Cairo,Suez,74 sqm,5,1,"5,003,724 EGP",30804.61658009578,https://example.com/property/840
+Property 841,Apartment,Fully Finished,Cairo,Cairo,339 sqm,3,1,"8,819,008 EGP",34429.271185784804,https://example.com/property/841
+Property 842,Townhouse,Semi Finished,Cairo,Cairo,488 sqm,3,2,"3,078,593 EGP",20571.990110950195,https://example.com/property/842
+Property 843,Villa,Fully Finished,Sheikh Zayed,North Coast,81 sqm,3,3,"535,172 EGP",21489.65391899363,https://example.com/property/843
+Property 844,Townhouse,Fully Finished,Cairo,North Coast,299 sqm,4,2,"2,044,331 EGP",30453.563591845308,https://example.com/property/844
+Property 845,Villa,Semi Finished,Sheikh Zayed,Cairo,386 sqm,5,1,"3,820,466 EGP",42267.43419054318,https://example.com/property/845
+Property 846,Townhouse,Semi Finished,Sheikh Zayed,North Coast,414 sqm,1,4,"3,499,350 EGP",11994.583059767154,https://example.com/property/846
+Property 847,Apartment,Semi Finished,Sheikh Zayed,North Coast,236 sqm,2,3,"8,017,947 EGP",34136.16848880984,https://example.com/property/847
+Property 848,Apartment,Unknown,Cairo,Cairo,141 sqm,1,2,"6,965,326 EGP",42271.12570025256,https://example.com/property/848
+Property 849,Apartment,Fully Finished,Sheikh Zayed,Suez,69 sqm,4,3,"3,345,785 EGP",16276.690881489087,https://example.com/property/849
+Property 850,Villa,Unknown,Cairo,Cairo,310 sqm,3,4,"4,848,566 EGP",10600.901679222652,https://example.com/property/850
+Property 851,Apartment,Unknown,Sheikh Zayed,North Coast,253 sqm,2,2,"1,407,811 EGP",22508.53180565832,https://example.com/property/851
+Property 852,Villa,Semi Finished,Maadi,Suez,476 sqm,4,1,"9,032,391 EGP",33525.748269183925,https://example.com/property/852
+Property 853,Apartment,Unknown,Sheikh Zayed,Giza,77 sqm,4,2,"9,386,535 EGP",15531.326936189907,https://example.com/property/853
+Property 854,Apartment,Semi Finished,Giza,Suez,358 sqm,4,3,"9,808,133 EGP",27044.89483889942,https://example.com/property/854
+Property 855,Villa,Fully Finished,Sheikh Zayed,North Coast,61 sqm,2,3,"8,751,251 EGP",32092.859894971116,https://example.com/property/855
+Property 856,Villa,Semi Finished,New Cairo,Suez,127 sqm,2,3,"2,152,628 EGP",33955.323790292685,https://example.com/property/856
+Property 857,Apartment,Unknown,Sheikh Zayed,Cairo,254 sqm,5,3,"938,866 EGP",20976.468840015004,https://example.com/property/857
+Property 858,Villa,Unknown,Giza,Giza,254 sqm,5,1,"6,006,168 EGP",26001.185439451656,https://example.com/property/858
+Property 859,Apartment,Semi Finished,Giza,Giza,358 sqm,1,2,"9,169,747 EGP",41133.56916270235,https://example.com/property/859
+Property 860,Villa,Semi Finished,Cairo,Giza,459 sqm,2,1,"2,184,837 EGP",47648.58776482742,https://example.com/property/860
+Property 861,Townhouse,Unknown,Maadi,North Coast,337 sqm,2,1,"566,907 EGP",44475.21324473029,https://example.com/property/861
+Property 862,Townhouse,Fully Finished,Sheikh Zayed,North Coast,479 sqm,2,1,"8,152,212 EGP",32571.340069337275,https://example.com/property/862
+Property 863,Townhouse,Fully Finished,Cairo,Giza,446 sqm,5,3,"1,229,559 EGP",26411.712117757863,https://example.com/property/863
+Property 864,Townhouse,Semi Finished,Maadi,Suez,313 sqm,4,3,"4,430,207 EGP",23318.26457485673,https://example.com/property/864
+Property 865,Townhouse,Fully Finished,Sheikh Zayed,Giza,425 sqm,3,3,"6,949,429 EGP",14998.262643360722,https://example.com/property/865
+Property 866,Apartment,Unknown,New Cairo,Suez,339 sqm,5,2,"2,749,577 EGP",14262.04988864452,https://example.com/property/866
+Property 867,Townhouse,Semi Finished,Sheikh Zayed,Suez,85 sqm,2,4,"1,297,644 EGP",37534.30499654631,https://example.com/property/867
+Property 868,Townhouse,Unknown,Giza,North Coast,383 sqm,5,3,"7,815,201 EGP",20391.776646846418,https://example.com/property/868
+Property 869,Townhouse,Unknown,Giza,Suez,92 sqm,1,2,"6,486,663 EGP",20186.46745729787,https://example.com/property/869
+Property 870,Townhouse,Fully Finished,New Cairo,Giza,317 sqm,2,3,"9,890,659 EGP",49927.80217911143,https://example.com/property/870
+Property 871,Villa,Semi Finished,Cairo,North Coast,366 sqm,1,3,"3,770,926 EGP",17517.038314951817,https://example.com/property/871
+Property 872,Apartment,Semi Finished,Maadi,Cairo,79 sqm,2,1,"1,086,742 EGP",15922.390379553186,https://example.com/property/872
+Property 873,Townhouse,Fully Finished,Sheikh Zayed,Cairo,153 sqm,5,1,"7,476,325 EGP",13947.409110396824,https://example.com/property/873
+Property 874,Townhouse,Unknown,Giza,North Coast,462 sqm,4,1,"5,456,467 EGP",33192.21380667185,https://example.com/property/874
+Property 875,Townhouse,Unknown,Cairo,Giza,327 sqm,3,2,"2,525,437 EGP",35114.55304008406,https://example.com/property/875
+Property 876,Apartment,Unknown,New Cairo,Cairo,160 sqm,1,4,"7,926,425 EGP",24609.11705027528,https://example.com/property/876
+Property 877,Villa,Unknown,Giza,Cairo,360 sqm,5,4,"2,435,677 EGP",31416.53342045871,https://example.com/property/877
+Property 878,Apartment,Semi Finished,New Cairo,Suez,318 sqm,4,2,"2,976,285 EGP",41535.9812377965,https://example.com/property/878
+Property 879,Villa,Semi Finished,Sheikh Zayed,Suez,275 sqm,5,3,"1,379,021 EGP",42724.16673286993,https://example.com/property/879
+Property 880,Townhouse,Fully Finished,Maadi,Giza,489 sqm,1,2,"4,294,606 EGP",48316.48302862593,https://example.com/property/880
+Property 881,Townhouse,Fully Finished,Giza,North Coast,357 sqm,3,3,"4,479,827 EGP",42970.71943691498,https://example.com/property/881
+Property 882,Apartment,Semi Finished,Giza,Giza,218 sqm,5,2,"5,388,337 EGP",32593.657468697063,https://example.com/property/882
+Property 883,Apartment,Semi Finished,Sheikh Zayed,North Coast,410 sqm,2,2,"7,235,160 EGP",17186.27863347384,https://example.com/property/883
+Property 884,Villa,Unknown,Cairo,Cairo,448 sqm,4,2,"9,107,958 EGP",13990.542308113696,https://example.com/property/884
+Property 885,Villa,Unknown,Maadi,Suez,106 sqm,5,4,"1,808,473 EGP",12180.475596434368,https://example.com/property/885
+Property 886,Apartment,Fully Finished,Giza,Giza,140 sqm,4,1,"1,016,306 EGP",36661.03327141535,https://example.com/property/886
+Property 887,Villa,Semi Finished,Maadi,Giza,147 sqm,2,2,"676,046 EGP",42301.45021591973,https://example.com/property/887
+Property 888,Apartment,Fully Finished,Giza,North Coast,361 sqm,3,4,"1,864,403 EGP",30347.35802736316,https://example.com/property/888
+Property 889,Villa,Semi Finished,Maadi,North Coast,321 sqm,3,1,"6,750,520 EGP",12188.566993345597,https://example.com/property/889
+Property 890,Apartment,Unknown,New Cairo,Giza,328 sqm,2,1,"7,411,032 EGP",31418.82298365353,https://example.com/property/890
+Property 891,Apartment,Fully Finished,Giza,North Coast,473 sqm,4,2,"7,971,804 EGP",47429.97046098202,https://example.com/property/891
+Property 892,Apartment,Fully Finished,Maadi,Giza,399 sqm,5,3,"2,815,228 EGP",33904.52763729842,https://example.com/property/892
+Property 893,Villa,Semi Finished,Cairo,Giza,107 sqm,2,3,"3,406,000 EGP",42377.09953851259,https://example.com/property/893
+Property 894,Villa,Unknown,New Cairo,Giza,206 sqm,1,3,"5,089,779 EGP",42006.10593567003,https://example.com/property/894
+Property 895,Villa,Fully Finished,New Cairo,Cairo,245 sqm,4,2,"1,100,239 EGP",47285.163991226116,https://example.com/property/895
+Property 896,Apartment,Unknown,Cairo,North Coast,228 sqm,3,3,"6,305,844 EGP",40809.15062599493,https://example.com/property/896
+Property 897,Villa,Fully Finished,Maadi,Suez,351 sqm,2,4,"9,845,482 EGP",39908.02056052358,https://example.com/property/897
+Property 898,Villa,Unknown,Sheikh Zayed,Suez,451 sqm,3,4,"3,927,659 EGP",19364.106598825623,https://example.com/property/898
+Property 899,Apartment,Semi Finished,Cairo,North Coast,187 sqm,4,4,"7,652,051 EGP",12397.006212843258,https://example.com/property/899
+Property 900,Townhouse,Fully Finished,Maadi,Giza,298 sqm,3,4,"5,250,322 EGP",30703.97860215231,https://example.com/property/900
+Property 901,Apartment,Fully Finished,Cairo,Suez,405 sqm,2,1,"1,714,212 EGP",14977.368317870209,https://example.com/property/901
+Property 902,Villa,Unknown,Cairo,Suez,237 sqm,4,4,"6,031,255 EGP",48487.835051119655,https://example.com/property/902
+Property 903,Apartment,Unknown,Giza,North Coast,125 sqm,1,3,"3,348,805 EGP",21596.99050532114,https://example.com/property/903
+Property 904,Townhouse,Fully Finished,Maadi,Suez,263 sqm,2,2,"826,830 EGP",44117.76813537173,https://example.com/property/904
+Property 905,Apartment,Semi Finished,Sheikh Zayed,Giza,74 sqm,5,3,"6,531,832 EGP",25504.985008098374,https://example.com/property/905
+Property 906,Villa,Unknown,Giza,North Coast,474 sqm,2,4,"8,659,857 EGP",22927.769994295097,https://example.com/property/906
+Property 907,Townhouse,Unknown,Cairo,Giza,83 sqm,4,1,"3,775,312 EGP",47406.342895064845,https://example.com/property/907
+Property 908,Villa,Unknown,Cairo,Suez,247 sqm,2,4,"4,207,807 EGP",24532.902883448958,https://example.com/property/908
+Property 909,Townhouse,Fully Finished,Cairo,Suez,288 sqm,1,2,"8,964,705 EGP",25611.51634652546,https://example.com/property/909
+Property 910,Townhouse,Fully Finished,Maadi,Giza,493 sqm,1,3,"8,229,283 EGP",14243.671184516366,https://example.com/property/910
+Property 911,Apartment,Fully Finished,Maadi,Cairo,124 sqm,5,2,"7,292,051 EGP",36817.86661130037,https://example.com/property/911
+Property 912,Apartment,Fully Finished,Giza,Suez,101 sqm,3,2,"2,863,572 EGP",21553.57657910054,https://example.com/property/912
+Property 913,Villa,Semi Finished,Sheikh Zayed,Cairo,53 sqm,4,2,"9,147,058 EGP",33424.166713580285,https://example.com/property/913
+Property 914,Apartment,Semi Finished,Giza,Suez,120 sqm,4,3,"1,966,949 EGP",33654.06816212838,https://example.com/property/914
+Property 915,Apartment,Fully Finished,New Cairo,Cairo,143 sqm,3,4,"6,454,319 EGP",38767.987823830685,https://example.com/property/915
+Property 916,Townhouse,Semi Finished,Cairo,Cairo,333 sqm,1,2,"773,611 EGP",39809.659446897655,https://example.com/property/916
+Property 917,Apartment,Unknown,Cairo,Cairo,148 sqm,1,3,"6,615,338 EGP",30578.097376061578,https://example.com/property/917
+Property 918,Townhouse,Unknown,Cairo,Giza,59 sqm,2,1,"3,132,871 EGP",23239.677904136122,https://example.com/property/918
+Property 919,Townhouse,Unknown,Giza,Cairo,421 sqm,5,3,"4,771,931 EGP",43498.035793389354,https://example.com/property/919
+Property 920,Townhouse,Fully Finished,Giza,Cairo,214 sqm,5,1,"3,780,013 EGP",22394.62597633939,https://example.com/property/920
+Property 921,Villa,Unknown,Cairo,Cairo,209 sqm,5,3,"2,141,189 EGP",30300.36377877326,https://example.com/property/921
+Property 922,Villa,Semi Finished,Giza,Suez,186 sqm,2,4,"6,408,817 EGP",26050.10332814912,https://example.com/property/922
+Property 923,Villa,Fully Finished,Maadi,Cairo,488 sqm,5,2,"8,878,767 EGP",44203.135438787525,https://example.com/property/923
+Property 924,Townhouse,Semi Finished,Maadi,Suez,126 sqm,3,4,"9,611,300 EGP",27276.741245833153,https://example.com/property/924
+Property 925,Villa,Unknown,Giza,Cairo,454 sqm,2,3,"2,327,290 EGP",25443.967553499373,https://example.com/property/925
+Property 926,Villa,Unknown,Cairo,Cairo,399 sqm,3,2,"7,315,041 EGP",37592.947715905495,https://example.com/property/926
+Property 927,Apartment,Unknown,Giza,Giza,84 sqm,2,1,"6,811,223 EGP",34097.644394457704,https://example.com/property/927
+Property 928,Villa,Fully Finished,Giza,Suez,494 sqm,5,3,"3,762,089 EGP",14289.873339833843,https://example.com/property/928
+Property 929,Villa,Semi Finished,Giza,Cairo,172 sqm,3,2,"681,442 EGP",30326.75225375853,https://example.com/property/929
+Property 930,Townhouse,Fully Finished,New Cairo,Suez,94 sqm,3,1,"7,053,016 EGP",39419.13553332991,https://example.com/property/930
+Property 931,Townhouse,Fully Finished,Maadi,Suez,423 sqm,3,1,"9,482,201 EGP",49682.99058365425,https://example.com/property/931
+Property 932,Townhouse,Unknown,Sheikh Zayed,North Coast,368 sqm,2,4,"6,505,141 EGP",35165.873358812765,https://example.com/property/932
+Property 933,Townhouse,Fully Finished,Sheikh Zayed,Giza,327 sqm,4,3,"4,635,280 EGP",24811.72265765271,https://example.com/property/933
+Property 934,Townhouse,Fully Finished,New Cairo,Giza,120 sqm,5,1,"5,488,961 EGP",19046.06399208474,https://example.com/property/934
+Property 935,Townhouse,Unknown,Giza,Giza,265 sqm,3,2,"2,396,473 EGP",44913.20936613281,https://example.com/property/935
+Property 936,Villa,Fully Finished,New Cairo,North Coast,401 sqm,4,1,"7,630,169 EGP",42582.608484540106,https://example.com/property/936
+Property 937,Townhouse,Unknown,New Cairo,North Coast,186 sqm,5,1,"7,590,988 EGP",19356.912831175396,https://example.com/property/937
+Property 938,Townhouse,Unknown,Cairo,Giza,190 sqm,5,4,"1,882,414 EGP",18025.28360586294,https://example.com/property/938
+Property 939,Apartment,Unknown,Maadi,North Coast,51 sqm,3,4,"8,840,794 EGP",38605.47107244702,https://example.com/property/939
+Property 940,Villa,Unknown,Sheikh Zayed,North Coast,128 sqm,3,2,"3,057,302 EGP",22598.08247675038,https://example.com/property/940
+Property 941,Villa,Fully Finished,Giza,North Coast,443 sqm,2,4,"9,831,432 EGP",22255.95193447831,https://example.com/property/941
+Property 942,Villa,Unknown,Sheikh Zayed,Giza,248 sqm,4,1,"4,137,578 EGP",16091.60988270621,https://example.com/property/942
+Property 943,Townhouse,Unknown,Sheikh Zayed,Giza,492 sqm,4,1,"2,189,898 EGP",20559.020788393194,https://example.com/property/943
+Property 944,Townhouse,Fully Finished,Maadi,Giza,228 sqm,3,4,"3,841,341 EGP",27100.302303705983,https://example.com/property/944
+Property 945,Townhouse,Fully Finished,Sheikh Zayed,North Coast,371 sqm,5,1,"4,681,713 EGP",39313.53349089662,https://example.com/property/945
+Property 946,Apartment,Semi Finished,Sheikh Zayed,Giza,176 sqm,3,1,"1,158,423 EGP",23452.32377654999,https://example.com/property/946
+Property 947,Townhouse,Fully Finished,New Cairo,North Coast,213 sqm,5,2,"5,993,074 EGP",23144.17357919371,https://example.com/property/947
+Property 948,Apartment,Fully Finished,Maadi,Cairo,135 sqm,5,4,"6,177,508 EGP",21396.530102097433,https://example.com/property/948
+Property 949,Villa,Semi Finished,Cairo,North Coast,206 sqm,3,1,"7,519,839 EGP",29131.34670044172,https://example.com/property/949
+Property 950,Townhouse,Fully Finished,Giza,Suez,296 sqm,1,4,"777,113 EGP",17225.46791765261,https://example.com/property/950
+Property 951,Apartment,Fully Finished,Sheikh Zayed,Giza,496 sqm,4,2,"5,641,763 EGP",29425.229361285023,https://example.com/property/951
+Property 952,Apartment,Fully Finished,Giza,Giza,348 sqm,5,4,"1,002,620 EGP",38167.022247787594,https://example.com/property/952
+Property 953,Townhouse,Fully Finished,Cairo,Suez,139 sqm,5,1,"7,160,870 EGP",11191.620161304887,https://example.com/property/953
+Property 954,Villa,Semi Finished,Giza,North Coast,70 sqm,1,4,"1,029,415 EGP",10391.175212230475,https://example.com/property/954
+Property 955,Villa,Fully Finished,Cairo,Cairo,106 sqm,2,1,"9,161,414 EGP",13004.91640618037,https://example.com/property/955
+Property 956,Villa,Fully Finished,New Cairo,Suez,303 sqm,1,1,"7,169,784 EGP",31426.402469124485,https://example.com/property/956
+Property 957,Apartment,Semi Finished,Sheikh Zayed,Suez,394 sqm,1,1,"5,320,202 EGP",44178.20332741614,https://example.com/property/957
+Property 958,Apartment,Unknown,Cairo,North Coast,473 sqm,5,2,"4,694,287 EGP",10195.378640810077,https://example.com/property/958
+Property 959,Apartment,Semi Finished,Giza,Giza,57 sqm,4,4,"1,741,389 EGP",47466.45218338724,https://example.com/property/959
+Property 960,Apartment,Unknown,Sheikh Zayed,North Coast,285 sqm,1,2,"3,264,494 EGP",14251.140462821433,https://example.com/property/960
+Property 961,Villa,Semi Finished,New Cairo,Suez,261 sqm,2,4,"8,755,111 EGP",43679.34112232905,https://example.com/property/961
+Property 962,Townhouse,Semi Finished,Sheikh Zayed,Suez,345 sqm,3,2,"9,092,301 EGP",29314.19059931787,https://example.com/property/962
+Property 963,Apartment,Fully Finished,Cairo,Giza,301 sqm,1,3,"507,103 EGP",36374.29549115376,https://example.com/property/963
+Property 964,Apartment,Unknown,New Cairo,Giza,359 sqm,1,1,"6,144,295 EGP",30427.319377887296,https://example.com/property/964
+Property 965,Villa,Fully Finished,Giza,Giza,346 sqm,2,1,"7,333,355 EGP",29081.929007174185,https://example.com/property/965
+Property 966,Townhouse,Unknown,New Cairo,North Coast,102 sqm,4,2,"6,378,096 EGP",43395.97713457566,https://example.com/property/966
+Property 967,Townhouse,Semi Finished,New Cairo,Giza,409 sqm,1,3,"1,275,957 EGP",40235.455182712656,https://example.com/property/967
+Property 968,Villa,Semi Finished,Maadi,Suez,105 sqm,1,1,"2,568,386 EGP",29336.089460920168,https://example.com/property/968
+Property 969,Villa,Unknown,New Cairo,Suez,364 sqm,4,4,"2,878,232 EGP",14465.437175842464,https://example.com/property/969
+Property 970,Townhouse,Fully Finished,New Cairo,Cairo,237 sqm,2,2,"8,401,383 EGP",14616.118372576326,https://example.com/property/970
+Property 971,Apartment,Fully Finished,Sheikh Zayed,North Coast,281 sqm,1,1,"4,900,394 EGP",42061.57842876302,https://example.com/property/971
+Property 972,Townhouse,Fully Finished,Giza,Cairo,456 sqm,4,1,"5,124,868 EGP",31175.62485390134,https://example.com/property/972
+Property 973,Villa,Fully Finished,Sheikh Zayed,Suez,450 sqm,1,2,"9,381,483 EGP",29263.565608774505,https://example.com/property/973
+Property 974,Apartment,Semi Finished,Sheikh Zayed,Cairo,418 sqm,3,2,"6,552,315 EGP",37222.6736544286,https://example.com/property/974
+Property 975,Apartment,Semi Finished,Cairo,Suez,279 sqm,5,4,"9,037,343 EGP",44353.66333657041,https://example.com/property/975
+Property 976,Villa,Semi Finished,Sheikh Zayed,Cairo,381 sqm,3,4,"4,836,834 EGP",35154.92577653221,https://example.com/property/976
+Property 977,Villa,Semi Finished,Maadi,Giza,280 sqm,1,1,"1,919,644 EGP",40513.91609385917,https://example.com/property/977
+Property 978,Villa,Semi Finished,Maadi,Cairo,441 sqm,2,1,"9,334,388 EGP",40610.82096467828,https://example.com/property/978
+Property 979,Townhouse,Fully Finished,Cairo,Giza,231 sqm,5,2,"4,857,698 EGP",24250.457951718363,https://example.com/property/979
+Property 980,Townhouse,Fully Finished,Giza,Giza,486 sqm,3,1,"2,225,498 EGP",20963.327825639826,https://example.com/property/980
+Property 981,Apartment,Fully Finished,Giza,North Coast,469 sqm,4,1,"3,372,759 EGP",42046.56268700634,https://example.com/property/981
+Property 982,Villa,Fully Finished,Sheikh Zayed,Giza,383 sqm,2,2,"982,624 EGP",25087.151671369742,https://example.com/property/982
+Property 983,Apartment,Semi Finished,Sheikh Zayed,Giza,175 sqm,3,1,"4,948,855 EGP",46133.44026090821,https://example.com/property/983
+Property 984,Apartment,Semi Finished,Sheikh Zayed,Cairo,109 sqm,4,1,"8,604,717 EGP",12787.627869204785,https://example.com/property/984
+Property 985,Apartment,Semi Finished,Giza,Suez,434 sqm,1,3,"9,369,014 EGP",12328.700483013587,https://example.com/property/985
+Property 986,Apartment,Unknown,New Cairo,North Coast,124 sqm,4,4,"9,359,720 EGP",47080.166404056334,https://example.com/property/986
+Property 987,Villa,Fully Finished,Maadi,Giza,434 sqm,3,2,"1,689,685 EGP",35938.19656725739,https://example.com/property/987
+Property 988,Apartment,Fully Finished,New Cairo,North Coast,270 sqm,3,3,"4,129,511 EGP",25183.974257933292,https://example.com/property/988
+Property 989,Villa,Semi Finished,New Cairo,Cairo,232 sqm,1,4,"768,173 EGP",40202.41659264731,https://example.com/property/989
+Property 990,Villa,Fully Finished,Giza,Giza,456 sqm,4,4,"8,624,070 EGP",36893.07239974565,https://example.com/property/990
+Property 991,Townhouse,Fully Finished,New Cairo,Cairo,321 sqm,4,4,"3,908,179 EGP",31248.041872783848,https://example.com/property/991
+Property 992,Villa,Semi Finished,Cairo,North Coast,309 sqm,1,3,"6,495,611 EGP",13954.933706506054,https://example.com/property/992
+Property 993,Townhouse,Unknown,Sheikh Zayed,Cairo,301 sqm,4,3,"7,291,535 EGP",42487.183491710064,https://example.com/property/993
+Property 994,Villa,Unknown,Cairo,North Coast,217 sqm,1,4,"4,583,524 EGP",44640.92762722499,https://example.com/property/994
+Property 995,Villa,Unknown,Maadi,Cairo,403 sqm,2,1,"3,411,202 EGP",16886.747542105964,https://example.com/property/995
+Property 996,Villa,Semi Finished,Sheikh Zayed,North Coast,163 sqm,3,1,"9,641,022 EGP",44020.46607908267,https://example.com/property/996
+Property 997,Townhouse,Fully Finished,New Cairo,Suez,472 sqm,2,3,"9,662,638 EGP",45113.89244066257,https://example.com/property/997
+Property 998,Townhouse,Semi Finished,Maadi,Cairo,452 sqm,5,3,"3,249,645 EGP",31977.144491540643,https://example.com/property/998
+Property 999,Apartment,Semi Finished,Sheikh Zayed,Cairo,201 sqm,5,3,"5,056,438 EGP",36247.161448907485,https://example.com/property/999
