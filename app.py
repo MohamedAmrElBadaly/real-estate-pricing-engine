@@ -67,10 +67,10 @@ def load_model_and_data():
         predictor = load_predictor()
         data = load_data()
         return predictor, data
-    except FileNotFoundError as e:
+    except Exception as e:
         st.error(f"Error loading model: {e}")
         st.error("Please run the training script first:")
-        st.code("python -m src.train")
+        st.code("python train.py")
         st.stop()
 
 

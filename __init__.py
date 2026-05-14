@@ -1,7 +1,13 @@
-"""
-Real Estate Pricing Engine - A production-ready ML system for property price prediction.
-"""
+import joblib
+from config import BEST_MODEL_PATH
 
-__version__ = "1.0.0"
-__author__ = "Data Science Team"
-__description__ = "Advanced ML-powered property pricing for Egyptian real estate market"
+def __init__(self):
+    self.model_path = BEST_MODEL_PATH
+
+    if not self.model_path.exists():
+        raise FileNotFoundError(
+        "Model not found. Please train the model first."
+        
+        )
+
+    self.model = joblib.load(self.model_path)
