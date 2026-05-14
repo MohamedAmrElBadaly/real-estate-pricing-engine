@@ -11,7 +11,6 @@ from pathlib import Path
 
 from config import (
     BEST_MODEL_PATH,
-    PREPROCESSOR_PATH,
     NUMERIC_FEATURES,
     CATEGORICAL_FEATURES,
     CURRENCY_FORMAT,
@@ -26,36 +25,17 @@ class PricingPredictor:
     Handles loading model and making predictions.
     """
     
-    def __init__(self, model_path=BEST_MODEL_PATH, preprocessor_path=PREPROCESSOR_PATH):
-        """
-        Initialize predictor by loading model and preprocessor.
-        
-        Args:
-            model_path: Path to saved model
-            preprocessor_path: Path to saved preprocessor
-        """
-        self.model_path = Path(model_path)
-        self.preprocessor_path = Path(preprocessor_path)
-        self.model = None
-        self.preprocessor = None
-        
-        self._load_model()
-    
-    def _load_model(self):
-        """
-        Load trained model and preprocessor from disk.
-        """
+    def __init__(self):
+        self.model_path = BEST_MODEL_PATH
+
         if not self.model_path.exists():
-            raise FileNotFoundError(f"Model not found at {self.model_path}")
-        
-        if not self.preprocessor_path.exists():
-            raise FileNotFoundError(f"Preprocessor not found at {self.preprocessor_path}")
-        
+            raise FileNotFoundError(
+                "Model not found. Please train the model first using: python train.py"
+            )
+
         self.model = joblib.load(self.model_path)
-        self.preprocessor = joblib.load(self.preprocessor_path)
-        
-        logger.info(f"Model loaded from {self.model_path}")
-        logger.info(f"Preprocessor loaded from {self.preprocessor_path}")
+    
+
     
     def predict(self, input_data):
         """
