@@ -29,13 +29,12 @@ class PricingPredictor:
         self.model_path = BEST_MODEL_PATH
 
         if not self.model_path.exists():
-            logger.info("Model not found. Training model automatically...")
-            
-            from train import train_pipeline
-            results = train_pipeline()
-            self.model = results['best_model']
-        else:
-            self.model = joblib.load(self.model_path)
+          raise FileNotFoundError(
+            "Model not found. Please train the model first."
+        
+          )
+
+        self.model = joblib.load(self.model_path)
     
 
     
