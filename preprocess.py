@@ -35,7 +35,8 @@ def load_data(filepath=RAW_DATA_PATH):
         DataFrame with loaded data
     """
     logger.info(f"Loading data from {filepath}")
-    df = pd.read_csv(filepath)
+    # Use dtype_backend='numpy_nullable' to avoid pyarrow string types
+    df = pd.read_csv(filepath, dtype_backend='numpy_nullable')
     logger.info(f"Data shape: {df.shape}")
     return df
 
@@ -57,7 +58,7 @@ def clean_price_column(df):
             df[TARGET_COLUMN]
             .str.replace(' EGP', '')
             .str.replace(',', '')
-            .astype(float)
+            .astype('float64')
         )
         logger.info("Price column converted to numeric")
     return df
@@ -79,7 +80,7 @@ def clean_area_column(df):
             df['Area']
             .str.replace(' sqm', '')
             .str.replace(',', '')
-            .astype(float)
+            .astype('float64')
         )
         logger.info("Area column converted to numeric")
     return df
@@ -102,20 +103,38 @@ def remove_duplicates(df):
     return df
 
 
-def remove_outliers_iqr(df, column=TARGET_COLUMN, multiplier=IQR_MULTIPLIER):
+def remove_outliers_iqr(df, column):
     """
-    Remove outliers using Interquartile Range (IQR) method.
-    
-    Args:
-        df: Input DataFrame
-        column: Column to detect outliers on
-        multiplier: IQR multiplier (default 1.5)
-        
-    Returns:
-        DataFrame with outliers removed
+    Remove outliers using IQR method
     """
+
+    df[column] = pd.to_numeric(
+        df[column].astype(str)
+        .str.replace("EGP", "", regex=False)
+        .str.replace(",", "", regex=False)
+        .str.strip(),
+        errors="coerce"
+    )
+
     Q1 = df[column].quantile(0.25)
     Q3 = df[column].quantile(0.75)
+    IQR = Q3 - Q1
+
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+
+    return df[
+        (df[column] >= lower_bound) &
+        (df[column] <= upper_bound)
+    ]
+    # Ensure column is numeric and use numpy dtypes to avoid pyarrow issues
+    df = df.copy()
+    df[column] = pd.to_numeric(df[column], errors='coerce').astype('float64')
+    
+    # Use numpy quantile to avoid pyarrow issues
+    values = df[column].dropna().values
+    Q1 = np.percentile(values, 25)
+    Q3 = np.percentile(values, 75)
     IQR = Q3 - Q1
     
     lower_bound = Q1 - multiplier * IQR
