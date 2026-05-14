@@ -29,16 +29,13 @@ class PricingPredictor:
         self.model_path = BEST_MODEL_PATH
 
         if not self.model_path.exists():
-            raise FileNotFoundError(
-                "Model not found. Please train the model first using: python train.py"
-            )
-
-        try:
-            self.model = joblib.load(self.model_path)
-        except Exception:
+            logger.info("Model not found. Training model automatically...")
+            
             from train import train_pipeline
             results = train_pipeline()
             self.model = results['best_model']
+        else:
+            self.model = joblib.load(self.model_path)
     
 
     
@@ -148,9 +145,9 @@ def load_predictor():
     try:
         predictor = PricingPredictor()
         return predictor
-    except FileNotFoundError as e:
+    except Exception as e:
         logger.error(f"Could not load predictor: {e}")
-        logger.error("Please run training first with: python train.py")
+        logger.error("Failed during training. Please check the error above.")
         raise
 
 
