@@ -33,7 +33,12 @@ class PricingPredictor:
                 "Model not found. Please train the model first using: python train.py"
             )
 
-        self.model = joblib.load(self.model_path)
+        try:
+            self.model = joblib.load(self.model_path)
+        except Exception:
+            from train import train_pipeline
+            results = train_pipeline()
+            self.model = results['best_model']
     
 
     
